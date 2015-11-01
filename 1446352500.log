@@ -486,3 +486,136 @@
 [1446356299] <f00barbob> ah, emerge world
 [1446356302] <f00barbob> the fun
 [1446356303] <levitanious> Some people (hellow Lrvick)
+[1446356313] <f00barbob> on a pentium III 500 laptop
+[1446356313] <levitanious> just love to watch the world compile.
+[1446356318] <alma_ata> the universe started when someone typed in
+[1446356320] <alma_ata> emerge universe
+[1446356321] <mg80> ASL?
+[1446356321] <f00barbob> (spoilers: it crashed after about 2 days)
+[1446356328] <levitanious> xD
+[1446356332] <alma_ata> but that guy set the entropy parameter wrong
+[1446356334] <alteplex> American Sign Language?
+[1446356341] <mg80> all day
+[1446356343] <nichdel> Twitch Doesn't Install Anything
+[1446356346] <renakunisaki> Arithmetic Shift Left obviously
+[1446356355] <kaithar> One time, when I was much younger, I did tried to do a stage 1 gentoo on a 486 with like 256MB of memory
+[1446356364] <levitanious> Artificial Snack Loop
+[1446356368] <alteplex> Twitch does suicide linux.
+[1446356382] <goochguy> there are multiple stages of gentoo?
+[1446356384] <kaithar> one particular compile, glibc probably, ran for something like a week and then exhausted the memory
+[1446356386] <mg80> Async Switch Loop?
+[1446356387] <alma_ata> yeah there is
+[1446356388] <goochguy> what is gentoo's final form?
+[1446356394] <f00barbob> indeed, based on how much pre-made crap you want i guess
+[1446356397] <thekmap> holy crap man can we get started or what
+[1446356401] <levitanious> Gentoo's final form is
+[1446356402] <alteplex> Fool, this isn
+[1446356403] <levitanious> MegaGentoo
+[1446356404] <alteplex> 't
+[1446356406] <slowthisbirddown> twitch builds a distro
+[1446356408] <alteplex> its final form
+[1446356409] <airwolf84> Genthree
+[1446356412] <thekmap> the botnet i rented is expiring soon Kappa
+[1446356414] <levitanious> It evolves at level 70
+[1446356417] <goochguy> LOL
+[1446356418] <levitanious> lo
+[1446356420] <levitanious> lol
+[1446356425] <kaithar> gentoo stage 1 is basically "compile everything at least twice"
+[1446356426] <thekmap> but seriously lets go man hurry up
+[1446356429] <levitanious> I told you it was rented.
+[1446356429] <renakunisaki> Twitch creates Digimon
+[1446356447] <slowthisbirddown> twitch makes half life 3
+[1446356451] <goochguy> twitch plays league of legends
+[1446356453] <levitanious> @Kaithar not twice, it's thrice, you forgot the configs.
+[1446356453] <alteplex> Twitch buys weed
+[1446356457] <alteplex> on the darknet
+[1446356459] <slowthisbirddown> lmao ^
+[1446356463] <airwolf84> Twitch crunches for SETI uses BOINC
+[1446356464] <mg80> But you can save 15% on car insurance. So youre good
+[1446356465] <jkentfromgithub> Twitch writes synthesizable Verilog. ... might actually be more boring than this
+[1446356469] <levitanious> LOL
+[1446356470] <levitanious> +1
+[1446356476] <thekmap> Twitch uses Tails Linux
+[1446356477] <kaithar> stage 3, which is the only official way these days, has at least some stuff compiled right heh
+[1446356486] <levitanious> Twitch reverses verilog programs on VAX
+[1446356496] <f00barbob> my most recent attempt to gentoo failed miserably, while the compiler received an accurate description of the CPU's capability flags, the VM it was running in appeared to be incapable of dealing with the,... invalid opcode type nonsense ensued, so i wrote it off
+[1446356517] <f00barbob> AVX, specifically. dunno why
+[1446356531] <alma_ata> when I tried to install gentoo recently... found out gentoo's installer doesn't do WPA secured networks
+[1446356534] <goochguy> because it has aids
+[1446356539] <levitanious> Installers?
+[1446356541] <levitanious> wat.
+[1446356545] <alma_ata> well not installer
+[1446356548] <alma_ata> but the livecd thingo
+[1446356552] <goochguy> wifi? lol
+[1446356558] <levitanious> wpa_supplicant
+[1446356558] <mg80> When I tried to install gentoo recently.. I just didn't
+[1446356563] <levitanious> xD
+[1446356567] <airwolf84> Twitch Defrags a a full 500MB hard drive
+[1446356570] <nichdel> gentoo not even once
+[1446356574] <f00barbob> mg80: recipe for success
+[1446356578] <levitanious> Ext4 doesn't need defrags doe?
+[1446356582] <levitanious> I mean
+[1446356586] <levitanious> After 10 years mightbe
+[1446356600] <levitanious> But we won't wait 10 years for stuff to get that badass, right?
+[1446356602] <kaithar> @Levitanious heh, nope, had to complete compile... stage 1 was most x86 generic and you had to recompile the toolset twice to get a more recent mtune cleanly set
+[1446356604] <airwolf84> Twitch doesnt know better and does anything
+[1446356605] <f00barbob> you can abuse it and wind up with bad fragmentation from running too long with low space... but on modern disks it's not that big of a deal anyways
+[1446356616] <jkentfromgithub> cp -rp /old /new
+[1446356622] <levitanious> @Kaithar why gentoo of all q.q
+[1446356624] <alma_ata> Twitch pipes yes to a file
+[1446356636] <f00barbob> indeed, defrag on linux is basically... copy stuff to a holding space, then copy it back...
+[1446356646] <nichdel> Twitch Aliases most commands to echo "y"
+[1446356647] <levitanious> Tar it?
+[1446356652] <mg80> There's something to be sad about windows installing pretty flawlessly. Kinda sucks that's the only success it has
+[1446356654] <kaithar> @Levitanious so basically uncompress x86, compile i686 with x86, then compile i686 with i686
+[1446356656] <levitanious> The only way i remember of defragging things
+[1446356668] <levitanious> @Kaithar gentoo-way all over~
+[1446356669] <f00barbob> that would work also
+[1446356679] <levitanious> Also shredding helps.
+[1446356687] <levitanious> But it's counter-productive, i belive.
+[1446356693] <jadedsarrow> isn't x86 the same thing as i686?
+[1446356698] <kaithar> @Levitanious honestly, some of the hardware I've used it on wouldn't work well with anything other than gentoo at the time, plus it made me really learn what I was doing
+[1446356708] <levitanious> Ah.
+[1446356708] <f00barbob> i686 refers specifically to pentium pro and later
+[1446356723] <gangwolf1337> Oh, guys, I think I forgot to tell you about: https://news.ycombinator.com/item?id=10484951
+[1446356726] <kaithar> @Jadedsarrow nope... i686 is pentium or later, x86 will theoretically run on a 286 if you can find one
+[1446356735] <nichdel> I wonder how *** up we can make the install by making random symlinks everywhere
+[1446356736] <levitanious> Actually, x86_64 was the amd implementation all along untill it got mixed
+[1446356739] <levitanious> with intel's
+[1446356741] <f00barbob> i586 is pentium, there is a distinction (albeit not a large one)
+[1446356750] <levitanious> and x86 is a reffer to 386
+[1446356753] <levitanious> and beyond
+[1446356755] <jadedsarrow> x86 is the encompassing family
+[1446356755] <f00barbob> 8086
+[1446356756] <levitanious> in general
+[1446356756] <thekmap> i love you @Gangwolf1337
+[1446356760] <f00barbob> Kappa, mostly
+[1446356761] <kaithar> @F00barbob good point, thank you
+[1446356762] <levitanious> 8086?
+[1446356766] <levitanious> Oh, my bad then.
+[1446356768] <f00barbob> xD
+[1446356773] <gangwolf1337> XEON!!
+[1446356774] <mg80> Gotta tell you all, I've left the hardware and OS business a while ago. I provide no value here
+[1446356782] <kaithar> 8086 was the original heh
+[1446356786] <f00barbob> i suppose 8086, 80186, 80286, etc. .. all have some degree of compatibility
+[1446356789] <thekmap> finally, now that @Mg80 is gone we can finally start the stream
+[1446356803] <mg80> lol
+[1446356808] <gangwolf1337> RancherOS: rancher.com
+[1446356818] <airwolf84> Monster Rancher?
+[1446356825] <levitanious> Still a question
+[1446356825] <alteplex> why
+[1446356829] <alteplex> just why
+[1446356833] <levitanious> will anyone re-stream it on youtube?
+[1446356840] <gangwolf1337> check it out! rancher.com
+[1446356843] <f00barbob> i don't know much about x86 assembly, but i'd imagine you can still access registers in an 8-bit fashion
+[1446356845] <jadedsarrow> re-stream what
+[1446356853] <nichdel> ^
+[1446356853] <levitanious> I main asmy
+[1446356862] <levitanious> It's... you can :D
+[1446356873] <levitanious> Not on 86_64 tho i belive
+[1446356877] <mg80> I find the hardware and OS stuff boring (ready for blows)
+[1446356885] <levitanious> Or, actually you can in emulation mode
+[1446356894] <gangwolf1337> Anyone use fedora cloud with cockpit?
+[1446356896] <kaithar> isn't there an instruction set break between two of the really early ones? I seem to recall 286 or 386 is the earliest that supports x86 generic
+[1446356898] <levitanious> Why would people flame here over stuff lmao
+[1446356913] <levitanious> Well, it's AL AH -> AX -> EAX -> RAX

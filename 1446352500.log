@@ -1856,3 +1856,6 @@
 [1446376725] <gopherhat> backspace
 [1446377722] <y7r4m> the project is not dead, the core issue is that the code we inherited in no way talks to qemu, and we are left filling in a LOT of gaps.
 [1446377964] <y7r4m> within 24 hours, twitch in the shell will be a thing once again. definitely.
+[1446380177] <y7r4m> we are grabbing frames once more
+[1446380251] <slipstream__> derp. Rai-chan here.
+[1446380279] <skiftcha> system_reset

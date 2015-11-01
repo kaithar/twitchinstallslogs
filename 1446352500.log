@@ -2579,3 +2579,151 @@
 [1446385772] <sackofactualpiss> tried to kill it
 [1446385780] <sackofactualpiss> i got 'rm' past
 [1446385792] <morriscasper> ?stats
+[1446385806] <morriscasper> Whoops, I crashed it
+[1446385808] <sackofactualpiss> ctrl-c
+[1446385810] <morriscasper> ValueError: list.remove(x): x not in list
+[1446385817] <defflo> aw shucks
+[1446385846] <morriscasper> ?stats
+[1446385846] <twitchinstallsbot> morriscasper: There were 1 messages in the last 5 minutes made with 1 different accounts.
+[1446385853] <morriscasper> It should work now
+[1446385882] <twitchintheshell> Not enough votes
+[1446385888] <morriscasper> system_reset
+[1446385897] <twitchintheshell> Winning command: system_reset
+[1446385897] <geoffwyche> y
+[1446385897] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446385900] <defflo> yes
+[1446385901] <morriscasper> yes
+[1446385903] <geoffwyche> yes
+[1446385906] <sackofactualpiss> no
+[1446385907] <sackofactualpiss> :)
+[1446385913] <twitchintheshell> Winning command: yes
+[1446385914] <twitchintheshell> VOTES: 'yes' = 100%
+[1446385914] <twitchintheshell> Vote succeeded: system_reset
+[1446385919] <sackofactualpiss> ...
+[1446385922] <morriscasper> VOTES: 'yes' = 100%
+[1446385924] <morriscasper> Wait, what
+[1446385928] <twitchintheshell> Winning command: yes
+[1446385930] <i3wm_rules_ok> no isn'
+[1446385934] <i3wm_rules_ok> t a command
+[1446385936] <sackofactualpiss> what is the command for no
+[1446385944] <twitchintheshell> Not enough votes
+[1446385947] <i3wm_rules_ok> just use anything else
+[1446385949] <geoffwyche> n
+[1446385953] <i3wm_rules_ok> p, 2, nop, whatever
+[1446385954] <morriscasper> No was anything else
+[1446385959] <twitchintheshell> Winning command: n
+[1446385959] <twitchinstallsbot> [META]The stream is down at the moment because of a botnet. It should be back online soon.
+[1446385963] <i3wm_rules_ok> it still isn't a command
+[1446385966] <xbytez> !bothelp
+[1446385975] <twitchintheshell> Not enough votes
+[1446385975] <morriscasper> !about
+[1446385983] <morriscasper> ?help
+[1446385983] <twitchinstallsbot> morriscasper: ?Author: says who made this bot - ?Contact: says how to contact the author - ?Vim_or_emacs: gives answer to the infamous question - ?Kappa: Kappa - ?Goal: gives the current goal and how to achieve it - ?Stats: gives stats about the last 5 minutes - You can see a list of commands on how to control the Arch Linux machine at https://www.twitchinstalls.com/#Commands.
+[1446385988] <morriscasper> Another community made bot?
+[1446385990] <twitchintheshell> Not enough votes
+[1446385992] <sackofactualpiss> two bots
+[1446385996] <sackofactualpiss> any code?
+[1446385996] <morriscasper> !cmd
+[1446386003] <morriscasper> How do you have purple text?
+[1446386003] <twitchintheshell> Not enough votes
+[1446386010] <xbytez> @MorrisCasper, using /me
+[1446386014] <yhonay> we should have a command for no, it's harder to agree on something if you can choose anything and you are against "yes"
+[1446386015] <morriscasper> Ah
+[1446386017] <twitchintheshell> Not enough votes
+[1446386019] <xbytez> @twitchinstalls, is my bot
+[1446386025] <xbytez> I had it in the other channel as well
+[1446386027] <defflo> ?Kappa
+[1446386027] <twitchinstallsbot> Kappa Kappa Kappa
+[1446386029] <defflo> :D
+[1446386029] <xbytez> it still is there
+[1446386034] <twitchintheshell> Not enough votes
+[1446386048] <twitchintheshell> Not enough votes
+[1446386049] <i3wm_rules_ok> Yhonay you don't have to agree, 'yes' wins if it's the majority of all votes
+[1446386052] <xbytez> if JRWR / other people from @twitchintheshell want me to get rid of it I'll just kill it
+[1446386062] <twitchintheshell> Not enough votes
+[1446386064] <i3wm_rules_ok> Yhonay if 6 different commands get 10% each, 'yes' loses
+[1446386069] <morriscasper> ?help
+[1446386073] <morriscasper> That works
+[1446386078] <twitchintheshell> Not enough votes
+[1446386080] <xbytez> ?Author
+[1446386082] <sackofactualpiss> r
+[1446386087] <xbytez> ohh we both have bots haha
+[1446386090] <morriscasper> :P
+[1446386093] <morriscasper> ?stats
+[1446386094] <twitchintheshell> Winning command: r
+[1446386100] <xbytez> I should probably opensource mine and put my name in !about
+[1446386105] <sackofactualpiss> backspace
+[1446386105] <yhonay> I3wm_rules_ok if that's how it works then ok
+[1446386109] <twitchintheshell> Winning command: backspace
+[1446386111] <xbytez> for now I had put community-made since I'll make any suggested change I guess
+[1446386111] <sackofactualpiss> d
+[1446386115] <morriscasper> Bot showoff
+[1446386124] <morriscasper> ?goal
+[1446386124] <twitchintheshell> Winning command: d
+[1446386139] <twitchintheshell> Not enough votes
+[1446386145] <xbytez> Wait one sec
+[1446386148] <xbytez> that pastebin aint right
+[1446386154] <i3wm_rules_ok> system_reset
+[1446386154] <twitchintheshell> Winning command: system_reset
+[1446386155] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446386158] <i3wm_rules_ok> yes
+[1446386161] <i3wm_rules_ok> nop
+[1446386164] <morriscasper> yes
+[1446386165] <i3wm_rules_ok> p
+[1446386167] <slipstream__> yes
+[1446386168] <i3wm_rules_ok> u
+[1446386170] <twitchintheshell> Winning command: yes
+[1446386170] <twitchintheshell> VOTES: 'yes' = 67%, 'u' = 33%
+[1446386170] <twitchintheshell> Vote succeeded: system_reset
+[1446386171] <xbytez> oh wait
+[1446386171] <i3wm_rules_ok> w
+[1446386172] <xbytez> it is
+[1446386173] <twitchintheshell> grr, one error away, this should be a quick one
+[1446386184] <twitchintheshell> just know that your commands are hitting the vm right now
+[1446386185] <twitchintheshell> Winning command: w
+[1446386189] <xbytez> What's the last error?
+[1446386193] <dogelition_man> so do we have a site that shows the recent key presses or not?
+[1446386196] <xbytez> if I may ask
+[1446386202] <twitchintheshell> Not enough votes
+[1446386203] <morriscasper> !create_temp_command: bots: There are currently multiple bots, one made by xBytez and one made by MorrisCasper.
+[1446386209] <i3wm_rules_ok> ctrl-s
+[1446386210] <sackofactualpiss> so what if i deleted / before the stream starts
+[1446386216] <twitchintheshell> Winning command: ctrl-s
+[1446386220] <twitchintheshell> the last error is getting ffmpeg to play nice again
+[1446386224] <xbytez> ahh okay
+[1446386225] <sackofactualpiss> r
+[1446386230] <morriscasper> ?create_temp_command: bots: There are currently multiple bots, one made by xBytez and one made by MorrisCasper
+[1446386231] <twitchintheshell> Winning command: r
+[1446386232] <sackofactualpiss> m
+[1446386235] <morriscasper> ?bots
+[1446386238] <xbytez> thanks for the transparency by the way, that's pretty nice
+[1446386243] <xbytez> I like that
+[1446386245] <twitchintheshell> Winning command: m
+[1446386246] <sackofactualpiss> spc
+[1446386258] <twitchintheshell> Not enough votes
+[1446386263] <i3wm_rules_ok> the termina;
+[1446386267] <dogelition_man> so, are we just going to use curl to get the og.lc script?
+[1446386268] <i3wm_rules_ok> the terminal's frozen, lalala
+[1446386273] <twitchintheshell> Not enough votes
+[1446386275] <i3wm_rules_ok> Dogelition_man no networking
+[1446386291] <xbytez> @dogelition_man, To be honest
+[1446386294] <dogelition_man> oh
+[1446386297] <xbytez> That sounds too easy
+[1446386301] <xbytez> It'd be way more fun doing it manually
+[1446386308] <xbytez> besides it's pretty calm now
+[1446386309] <xbytez> I think we can do it
+[1446386314] <dogelition_man> alright
+[1446386317] <dogelition_man> what guide are we going to follow then?
+[1446386324] <morriscasper> ?goal
+[1446386325] <sackofactualpiss> i'll try not to *** *** up while we are doing things legit
+[1446386327] <morriscasper> That one
+[1446386332] <morriscasper> We need to finish the goals
+[1446386335] <xbytez> We need commands
+[1446386337] <sackofactualpiss> but while we are offcam, might as well try to delete / like a moron
+[1446386346] <xbytez> well we could say the command that we want in here with /me
+[1446386349] <i3wm_rules_ok> the terminal's frozen :P
+[1446386349] <xbytez> take the best one
+[1446386352] <xbytez> and go with that
+[1446386362] <sackofactualpiss> : P
+[1446386387] <twitchintheshell> Not enough votes
+[1446386389] <morriscasper> What do you mean with we need commands?

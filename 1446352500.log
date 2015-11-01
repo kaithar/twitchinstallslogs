@@ -2453,3 +2453,129 @@
 [1446385187] <i3wm_rules_ok> it's currently anarchy
 [1446385192] <twitchintheshell> Not enough votes
 [1446385193] <fakersteitoku> yesssss
+[1446385201] <i3wm_rules_ok> idk if it's going to be so later
+[1446385206] <twitchintheshell> Not enough votes
+[1446385207] <fakersteitoku> the democracy setup from the original made botnetting too easy
+[1446385215] <morriscasper> ?goal
+[1446385215] <twitchinstallsbot> morriscasper: http://pastebin.com/CymqK2Ue
+[1446385217] <i3wm_rules_ok> they were testing captcha authentication to allow submitting commands
+[1446385217] <xbytez> h
+[1446385222] <twitchintheshell> Winning command: h
+[1446385223] <i3wm_rules_ok> so maybe if that works out...
+[1446385238] <twitchintheshell> Not enough votes
+[1446385239] <fakersteitoku> i also want it to be easier to troll though
+[1446385251] <fakersteitoku> the long intervals made it super easy, it needed to be more like typing speed
+[1446385252] <twitchintheshell> Not enough votes
+[1446385266] <twitchintheshell> Not enough votes
+[1446385282] <twitchintheshell> Not enough votes
+[1446385290] <dogelition_man> system_reset
+[1446385296] <twitchintheshell> Winning command: system_reset
+[1446385296] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446385297] <dogelition_man> yes
+[1446385312] <twitchintheshell> Winning command: yes
+[1446385312] <twitchintheshell> VOTES: 'yes' = 100%
+[1446385312] <twitchintheshell> Vote succeeded: system_reset
+[1446385325] <twitchintheshell> okay this is good
+[1446385327] <twitchintheshell> Winning command: yes
+[1446385342] <twitchintheshell> Not enough votes
+[1446385356] <twitchintheshell> Not enough votes
+[1446385359] <morriscasper> ?stats
+[1446385361] <twitchintheshell> system_reset
+[1446385366] <twitchintheshell> system_reset
+[1446385371] <twitchintheshell> Winning command: system_reset
+[1446385371] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446385372] <morriscasper> Wait, what?
+[1446385383] <morriscasper> Is that the owner voting?
+[1446385387] <twitchintheshell> Not enough votes
+[1446385402] <twitchintheshell> Not enough votes
+[1446385409] <morriscasper> yes
+[1446385412] <twitchintheshell> that's me testing
+[1446385416] <morriscasper> Ah
+[1446385417] <twitchintheshell> Winning command: yes
+[1446385417] <twitchintheshell> VOTES: 'yes' = 100%
+[1446385417] <twitchintheshell> Vote succeeded: system_reset
+[1446385426] <morriscasper> Any ETA?
+[1446385428] <morriscasper> Do you need help?
+[1446385432] <twitchintheshell> Winning command: yes
+[1446385437] <twitchintheshell> I need one question answered
+[1446385441] <morriscasper> Sure
+[1446385447] <twitchintheshell> Not enough votes
+[1446385461] <twitchintheshell> Not enough votes
+[1446385468] <twitchintheshell> What needs to be added here at the end of the message string to force a return? https://github.com/twitchinstallsarchlinux/twitch-master/blob/master/qemu.js
+[1446385474] <twitchintheshell> can I add and hope for the best?
+[1446385476] <twitchintheshell> Not enough votes
+[1446385490] <fakersteitoku> force a return? like a newline?
+[1446385492] <twitchintheshell> Not enough votes
+[1446385508] <twitchintheshell> Not enough votes
+[1446385510] <morriscasper> A newline? I was having trouble with that on my own bot too
+[1446385511] <morriscasper> ?help
+[1446385512] <twitchinstallsbot> morriscasper: ?Author: says who made this bot - ?Contact: says how to contact the author - ?Vim_or_emacs: gives answer to the infamous question - ?Kappa: Kappa - ?Goal: gives the current goal and how to achieve it - ?Stats: gives stats about the last 5 minutes - You can see a list of commands on how to control the Arch Linux machine at https://www.twitchinstalls.com/#Commands.
+[1446385523] <twitchintheshell> Not enough votes
+[1446385526] <twitchinstallsbot> [META]The stream is down at the moment because of a botnet. It should be back online soon.
+[1446385527] <morriscasper> I just used hyphens to separate strings, but it's ugly
+[1446385533] <twitchintheshell> system_reset
+[1446385539] <twitchintheshell> Winning command: system_reset
+[1446385539] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446385539] <twitchintheshell> keep trying a reset
+[1446385543] <morriscasper> yes
+[1446385546] <twitchintheshell> yes
+[1446385548] <chocolic> yes
+[1446385551] <dogelition_man> yes
+[1446385553] <i3wm_rules_ok> yes
+[1446385555] <twitchintheshell> Winning command: yes
+[1446385555] <twitchintheshell> VOTES: 'yes' = 100%
+[1446385555] <twitchintheshell> Vote succeeded: system_reset
+[1446385568] <dogelition_man> are we going to install a window manager?
+[1446385570] <twitchintheshell> Winning command: yes
+[1446385576] <twitchintheshell> one more test run :)
+[1446385579] <twitchintheshell> system_reset
+[1446385583] <dogelition_man> system_reset
+[1446385586] <twitchintheshell> Winning command: system_reset
+[1446385587] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446385588] <fakersteitoku> we are going to install xmonad
+[1446385590] <dogelition_man> yes
+[1446385590] <i3wm_rules_ok> yes
+[1446385597] <twitchintheshell> yes
+[1446385599] <morriscasper> ?echo: testingtestint2
+[1446385599] <twitchinstallsbot> testingtestint2
+[1446385601] <i3wm_rules_ok> i3!
+[1446385602] <twitchintheshell> Winning command: yes
+[1446385602] <twitchintheshell> VOTES: 'yes' = 100%
+[1446385602] <twitchintheshell> Vote succeeded: system_reset
+[1446385609] <morriscasper> doesn't work
+[1446385617] <twitchintheshell> Winning command: yes
+[1446385622] <twitchintheshell> HYPE
+[1446385623] <twitchintheshell> https://www.youtube.com/watch?v=9jK-NcRmVcw
+[1446385625] <fakersteitoku> are we starting from scratch?
+[1446385633] <twitchintheshell> Not enough votes
+[1446385647] <twitchintheshell> Not enough votes
+[1446385655] <fakersteitoku> cause most of the progression was caused a botnet anyway :/
+[1446385660] <twitchintheshell> Not enough votes
+[1446385660] <sackofactualpiss> r
+[1446385662] <twitchintheshell> stream will be online within 5 minutes
+[1446385670] <morriscasper> ?echo: testing testing2
+[1446385670] <twitchinstallsbot> testing testing2
+[1446385673] <sackofactualpiss> how fast can we rm -rf /
+[1446385676] <twitchintheshell> Winning command: r
+[1446385678] <fakersteitoku> i want to see twitch try to get past pacstrap without ctrl-c without a botnet spamming nop
+[1446385680] <sackofactualpiss> m
+[1446385693] <twitchintheshell> Winning command: m
+[1446385695] <sackofactualpiss> space
+[1446385696] <i3wm_rules_ok> well if you tack & onto the end
+[1446385706] <xbytez> 5 minutes
+[1446385707] <xbytez> pretty fast
+[1446385711] <fakersteitoku> good idea but we could still ctrl-d the terminal?
+[1446385716] <fruitiex> HYPE Kappa //
+[1446385724] <yhonay> 1 2
+[1446385732] <morriscasper> Twitchintheshell, Twitch chat doesn't support line breaks
+[1446385734] <defflo> *1
+[1446385734] <sackofactualpiss> spc
+[1446385744] <morriscasper> The only way would be to use different messages
+[1446385747] <morriscasper> Source: https://www.reddit.com/r/Twitch/comments/2r8dlv/moobot_formating_line_breaks_bold/
+[1446385761] <fakersteitoku> just put a litereral in the message. We'll all understand what it means here.
+[1446385764] <sackofactualpiss> damn
+[1446385764] <morriscasper> That's a Twitch Admin
+[1446385765] <i3wm_rules_ok> what's the max length of a message? can you insert enough nbsps?
+[1446385772] <sackofactualpiss> tried to kill it
+[1446385780] <sackofactualpiss> i got 'rm' past
+[1446385792] <morriscasper> ?stats

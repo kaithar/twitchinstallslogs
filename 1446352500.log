@@ -619,3 +619,79 @@
 [1446356896] <kaithar> isn't there an instruction set break between two of the really early ones? I seem to recall 286 or 386 is the earliest that supports x86 generic
 [1446356898] <levitanious> Why would people flame here over stuff lmao
 [1446356913] <levitanious> Well, it's AL AH -> AX -> EAX -> RAX
+[1446356915] <f00barbob> real mode/virtual mode support was a big shift
+[1446356919] <marco23p> yo dudes
+[1446356921] <ivolol> why isnt' this live
+[1446356945] <levitanious> Well, they've killed kenny
+[1446356945] <jkentfromgithub> Kaithar, yes, protected mode is what you're thinking of
+[1446356945] <thekmap> @Ivolol stream will be up once i refresh my botnet subscription
+[1446356949] <f00barbob> 386 is basically the basis of what we have now, 286 virtual addressing was apparently quite weak
+[1446356950] <kaithar> yeah, ring support was a big deal
+[1446356952] <alteplex> kk
+[1446356975] <gangwolf1337> BeCuse @Ivolol: https://news.ycombinator.com/item?id=10484951
+[1446356983] <kaithar> there's also the matter of the 286 math coprocessor heh
+[1446357054] <marco23p> so, what happened exactly?
+[1446357060] <f00barbob> i had the good fortune of never having to own a computer with a discrete coprocessor, my family had a 386DX and later a 486DX while I was growing up
+[1446357063] <gangwolf1337> Gentoo, Arch, why not Sabayon?
+[1446357064] <nichdel> I'm fond of the 986TwitchInstalls
+[1446357084] <thekmap> @Marco23p it was a conspiracy by @Twitchintheshell to take down the other stream so he could have this one to himself
+[1446357091] <goochguy> @Marco23p we installed it and then subsequently beat all pokemon games
+[1446357093] <marco23p> oh *** Kappa
+[1446357107] <gangwolf1337> Twitch Installs https://news.ycombinator.com/item?id=10484951 !!
+[1446357107] <levitanious> Arch got installed by itself
+[1446357110] <levitanious> Nothing to do basically
+[1446357112] <kaithar> a 286 was the first machine I got my hands on... it was so old you had to tell it to park the drive heads before you turned it off hehe
+[1446357122] <f00barbob> xD
+[1446357135] <jkentfromgithub> oh man, i remember that now
+[1446357138] <alteplex> we should have a twitch installs dos or something/
+[1446357141] <mg80> if you guys want a box why not just get one on AWS and chat about it?
+[1446357145] <thekmap> holy crap man whats taking so long
+[1446357148] <seriouslylaughing> test
+[1446357148] <renakunisaki> so guess this test stream isn't happening
+[1446357165] <nichdel> Thekmap clearly it did not pass the tests
+[1446357168] <f00barbob> indeed, i'm fighting cirSleep for this
+[1446357182] <thekmap> @Nichdel yeah but the more insecure it is, the better
+[1446357201] <levitanious> 4g modems
+[1446357203] <gangwolf1337> Maybe they should check out https://news.ycombinator.com/item?id=10484951 to start streaming faster.
+[1446357203] <kaithar> setting up is occurring ... making it slightly harder to abuse is also occuring
+[1446357213] <levitanious> Twitch hacking gsm
+[1446357214] <airwolf84> Twitch installs BonziBuddy
+[1446357222] <goochguy> yes
+[1446357233] <tribblepuncher> @Airwolf84 The dark lord of the Internet
+[1446357240] <gangwolf1337> Twitch installs RancherOS!
+[1446357242] <f00barbob> twitch installs netscape navigator 2.0 on windows 95?
+[1446357251] <levitanious> First you have to install 95
+[1446357259] <levitanious> That's a challenge of it's own these days
+[1446357262] <airwolf84> Twitch Installs Yahoo Booters
+[1446357266] <f00barbob> on floppies
+[1446357269] <gangwolf1337> Twitch installs OS X!!!!
+[1446357272] <mg80> 95 == 65
+[1446357273] <levitanious> I had 92 floppies with HOMM2
+[1446357273] <alteplex> twitch installs windows xp virtual box, to download malware.
+[1446357274] <thekmap> its all about TempleOS
+[1446357274] <levitanious> Beat me.
+[1446357279] <goochguy> https://www.youtube.com/watch?v=wtbJwyg0U3E
+[1446357297] <nichdel> https://twitter.com/twitchshell said 7 minutes ago that they're currently configuring qemu
+[1446357310] <levitanious> Qemu is a bitch, i suppose?
+[1446357321] <gangwolf1337> Twitch installs BSD?
+[1446357325] <f00barbob> i can't beat you, but my worst was visual C++ 1.52; we had CD-ROMs for windows 98 and onwards
+[1446357333] <airwolf84> BSD installs Twitch
+[1446357340] <levitanious> Q.Q
+[1446357345] <levitanious> I feel you, man.
+[1446357365] <goochguy> can someone please watch that youtube video and figure out how we can do this
+[1446357369] <gangwolf1337> Twitch installs slee..zZ...
+[1446357370] <mg80> Can't wait to work for Twitch
+[1446357375] <levitanious> Then again, all my games on gog are for windows.
+[1446357376] <levitanious> That sucks.
+[1446357382] <alteplex> Alright, "twitch *** up install" you have some really insecure windows XP box, and twitch installs malware.
+[1446357411] <gangwolf1337> Twitch installs SteamOS, with RHEL kernel
+[1446357413] <airwolf84> Twitch Installs Virtual Strippers
+[1446357420] <nichdel> this is a slow *** hype train
+[1446357422] <levitanious> And gets permabanned
+[1446357424] <renakunisaki> VirtuaGirl Kreygasm
+[1446357440] <mg80> permgen'd
+[1446357445] <levitanious> 3DSV
+[1446357458] <levitanious> If i were to put up my 5 cents.
+[1446357470] <levitanious> And stap on some gamepad
+[1446357476] <gangwolf1337> I got it!! Twitch Installs https://news.ycombinator.com/item?id=10484951
+[1446357476] <levitanious> For enchanced controls.

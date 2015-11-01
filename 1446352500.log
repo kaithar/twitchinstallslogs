@@ -1822,3 +1822,27 @@
 [1446374565] <thekmap> >implying the bots all have the same IP address
 [1446374760] <nyuszika7h> I3wm_rules_ok: the IPs are hashed
 [1446374766] <nyuszika7h> e.g. coldfront-19904EBF.cpe.webspeed.dk
+[1446375616] <y7r4m> Thekmap, were you the bot master? people are saying that,
+[1446375636] <thekmap> @Y7r4m people are dumb
+[1446375668] <y7r4m> that doesn't answer the question, haha.
+[1446375751] <nyuszika7h> for those who don't want to join IRC, this is what they need testers for: http://twitchintheshell.com/verify/
+[1446375775] <y7r4m> it's been tested, it seems to work great
+[1446375780] <nyuszika7h> yeah
+[1446375784] <thekmap> oooo a web application!
+[1446375797] <thekmap> looks secure Kappa
+[1446375799] <nyuszika7h> it works
+[1446375840] <nyuszika7h> oh are you the same person as n17r4m
+[1446375853] <y7r4m> *shrugs*
+[1446375894] <y7r4m> yeah
+[1446375947] <thekmap> you guys done being paranoid yet, can we watch scrubs try to type rm -rf over and over
+[1446376020] <y7r4m> we aim to be only annoyingly paranoid.
+[1446376025] <y7r4m> ;j
+[1446376047] <thekmap> well i hope your verification thingy gives you the peace of mind to hurry the *** up
+[1446376081] <nyuszika7h> how do you prevent reverse shell on port 80 or so?
+[1446376090] <thekmap> :)
+[1446376092] <y7r4m> no prevention so far.
+[1446376105] <y7r4m> execpt that port 80 is in use
+[1446376114] <y7r4m> so, there is that
+[1446376130] <thekmap> facepalm
+[1446376131] <nyuszika7h> no, reverse shell is an outbound connection from here
+[1446376139] <thekmap> wow you guys are clueless

@@ -1859,3 +1859,55 @@
 [1446380177] <y7r4m> we are grabbing frames once more
 [1446380251] <slipstream__> derp. Rai-chan here.
 [1446380279] <skiftcha> system_reset
+[1446380402] <toxicfork> bleep bloop
+[1446380519] <blha303> ctrl-c
+[1446380700] <toxicfork> nop
+[1446380718] <twitchintheshell> Not enough votes
+[1446380732] <twitchintheshell> Not enough votes
+[1446380746] <twitchintheshell> Not enough votes
+[1446380760] <twitchintheshell> Not enough votes
+[1446380767] <twitchintheshell> a
+[1446380776] <twitchintheshell> Winning command: a
+[1446380793] <twitchintheshell> Not enough votes
+[1446380808] <twitchintheshell> Not enough votes
+[1446380818] <i3wm_rules_ok> #
+[1446380822] <twitchintheshell> Winning command: #
+[1446380837] <twitchuninstallsarchlinux> system_reset
+[1446380838] <twitchintheshell> Winning command: system_reset
+[1446380838] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446380841] <twitchuninstallsarchlinux> yes
+[1446380842] <i3wm_rules_ok> nop
+[1446380853] <twitchintheshell> Winning command: nop
+[1446380853] <twitchintheshell> VOTES: 'yes' = 50%, 'nop' = 50%
+[1446380853] <twitchintheshell> Vote failed: system_reset
+[1446380859] <twitchuninstallsarchlinux> system_reset
+[1446380868] <twitchintheshell> Winning command: system_reset
+[1446380868] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446380874] <i3wm_rules_ok> nop
+[1446380875] <twitchuninstallsarchlinux> yes
+[1446380884] <twitchintheshell> Winning command: yes
+[1446380884] <twitchintheshell> VOTES: 'nop' = 50%, 'yes' = 50%
+[1446380884] <twitchintheshell> Vote succeeded: system_reset
+[1446380899] <twitchintheshell> Winning command: yes
+[1446380899] <i3wm_rules_ok> Oh, the tie breaks randomly?
+[1446380911] <twitchuninstallsarchlinux> system_reset
+[1446380913] <twitchintheshell> Winning command: system_reset
+[1446380914] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446380916] <twitchuninstallsarchlinux> ye
+[1446380917] <twitchuninstallsarchlinux> yes
+[1446380927] <i3wm_rules_ok> boot_cd
+[1446380928] <twitchintheshell> Winning command: boot_cd
+[1446380928] <twitchintheshell> VOTES: 'yes' = 50%, 'boot_cd' = 50%
+[1446380928] <twitchintheshell> Vote failed: system_reset
+[1446380938] <nyuszika7h> it should probably do nothing if there's a tie
+[1446380943] <twitchintheshell> Winning command: boot_cd
+[1446380943] <twitchintheshell> Vote 'yes' to run this command: boot_cd
+[1446380948] <twitchuninstallsarchlinux> yes
+[1446380949] <nyuszika7h> at least "yes" should need a real majority
+[1446380950] <i3wm_rules_ok> yes
+[1446380953] <nyuszika7h> yes
+[1446380957] <twitchintheshell> Winning command: yes
+[1446380957] <twitchintheshell> VOTES: 'yes' = 100%
+[1446380957] <twitchintheshell> Vote succeeded: boot_cd
+[1446380965] <twitchuninstallsarchlinux> Kappa
+[1446380972] <twitchintheshell> Winning command: yes

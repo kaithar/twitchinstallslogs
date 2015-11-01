@@ -92963,3 +92963,2106 @@
 [1446420112] <lestermfp> slash
 [1446420112] <kronmillerg> d
 [1446420113] <cthulrunner> tab
+[1446420113] <atanasmk16> d
+[1446420114] <iiiytn1k> d
+[1446420114] <lokiron> tab
+[1446420114] <nalterjun> There is
+[1446420115] <install_it_dammit> d
+[1446420115] <fourbitfox> d
+[1446420115] <cthulrunner> tab
+[1446420115] <dvrkkbd> YEP TAB COMPLETION IN SH
+[1446420117] <majorlazerlosstra> d
+[1446420117] <defflo> d
+[1446420117] <jkentfromgithub> d
+[1446420117] <armennarkoman> ctrl-c
+[1446420117] <kronmillerg> Apparently, yes
+[1446420119] <amanster1> la
+[1446420119] <twitchinstallsarchlinux> Winning command: d
+[1446420119] <twitchinstallsarchlinux> VOTES: 'd' = 45%, 'ctrl-c' = 5%, 'tab' = 5%
+[1446420120] <test1438390741> slash
+[1446420120] <demozdw> d
+[1446420120] <justicetheory> e
+[1446420120] <agebronze> that's not dash o.O
+[1446420121] <j_hass> tab
+[1446420121] <renakunisaki> no tab completion eh? Keepo
+[1446420121] <linghtoner> e
+[1446420121] <intexity> e
+[1446420122] <kronmillerg> e
+[1446420122] <jkentfromgithub> e
+[1446420122] <testvs> e
+[1446420122] <lefusselkater> e
+[1446420122] <install_it_dammit> e
+[1446420122] <fourbitfox> e
+[1446420122] <chulungs> e
+[1446420122] <numinit> e
+[1446420123] <miotatsu> e
+[1446420123] <cpen88> m
+[1446420124] <test1438390741> d
+[1446420124] <dvrkkbd> :-D
+[1446420124] <demozdw> e
+[1446420124] <defflo> e
+[1446420124] <033bunbun> e
+[1446420126] <kirimson> e
+[1446420126] <arcticarkady> e
+[1446420126] <lestermfp> d
+[1446420127] <lokidari> e
+[1446420127] <atanasmk16> e
+[1446420128] <teknomantik> what in the literal fuck...
+[1446420128] <skakri_> wtf
+[1446420128] <magniffico> p
+[1446420130] <tranqui0> dash
+[1446420130] <misson20000> e
+[1446420130] <droobey> e
+[1446420130] <lestermfp> e
+[1446420131] <heroickatora> e
+[1446420131] <yhonay> is arch's sh link to bash or something?
+[1446420133] <tehtrueprophet> tab
+[1446420134] <someguywholikesgames> d
+[1446420134] <twitchinstallsarchlinux> Winning command: e
+[1446420134] <twitchinstallsarchlinux> VOTES: 'e' = 41%, 'm' = 3%, 'd' = 3%
+[1446420135] <kronmillerg> It might be
+[1446420135] <justicetheory> v
+[1446420136] <heroickatora> v
+[1446420136] <linghtoner> v
+[1446420136] <033bunbun> v
+[1446420136] <defflo> v
+[1446420136] <lefusselkater> v
+[1446420136] <intexity> v
+[1446420136] <kirimson> v
+[1446420137] <install_it_dammit> v
+[1446420137] <testvs> v
+[1446420137] <test1438390741> e
+[1446420137] <floatboth> SH IS BASH ON MOST MODERN LINUX DISTROS
+[1446420137] <the_nql> v
+[1446420137] <misson20000> v
+[1446420137] <motion_blurr> v
+[1446420137] <kronmillerg> v
+[1446420138] <dvrkkbd> v
+[1446420138] <lestermfp> v
+[1446420138] <iiiytn1k> v
+[1446420138] <tehtrueprophet> v
+[1446420138] <miotatsu> v
+[1446420138] <apswny> Of course there's tab completion. It's *not* sh, it's sh-mode in bash. See the 4.3? That's because it's bash 4.3, in sh mode.
+[1446420139] <jkentfromgithub> v
+[1446420139] <sirdigby83> e
+[1446420139] <aengoon9> I think the reason is that bash symlinks sh → bash, and bash just pretends to be sh (but has autocompletion)
+[1446420139] <demozdw> v
+[1446420139] <chulungs> v
+[1446420139] <evil_zebra> v
+[1446420140] <khoyo> It's really bash, but in sh compatible mode
+[1446420140] <lokidari> v
+[1446420141] <nulltask> v
+[1446420141] <emilun> isn't /bin/sh symlinked to /bin/bash in the default arch installation?
+[1446420141] <fourbitfox> v
+[1446420142] <tehtrueprophet> tab
+[1446420142] <cthulrunner> tab
+[1446420143] <numinit> arch's sh is bash
+[1446420143] <sirdigby83> v
+[1446420143] <cthulrunner> tab
+[1446420146] <test1438390741> tab
+[1446420146] <cthulrunner> tab
+[1446420148] <cthulrunner> tab
+[1446420149] <twitchinstallsarchlinux> Winning command: v
+[1446420149] <twitchinstallsarchlinux> VOTES: 'v' = 55%, 'tab' = 3%
+[1446420150] <lestermfp> rtab
+[1446420150] <swecmyran> v
+[1446420150] <j_hass> slash
+[1446420150] <justicetheory> slash
+[1446420150] <033bunbun> slash
+[1446420151] <cthulrunner> tab
+[1446420151] <fourbitfox> slash
+[1446420151] <dolan44> Emilun yeppity yep
+[1446420151] <aengoon9> *Arch syminks
+[1446420151] <the_nql> slash
+[1446420151] <kronmillerg> slash
+[1446420152] <jkentfromgithub> slash
+[1446420152] <test1438390741> v
+[1446420152] <testvs> slash
+[1446420153] <majorlazerlosstra> op
+[1446420153] <linghtoner> slash
+[1446420153] <motion_blurr> slash
+[1446420153] <cthulrunner> tab
+[1446420154] <lefusselkater> slash
+[1446420154] <install_it_dammit> slash
+[1446420155] <intexity> slash
+[1446420155] <skakri_> slash
+[1446420155] <iiiytn1k> slash
+[1446420155] <miotatsu> slash
+[1446420155] <johnrox5231> slash
+[1446420155] <misson20000> slash
+[1446420155] <heroickatora> slash
+[1446420156] <cthulrunner> tab
+[1446420156] <defflo> slash
+[1446420156] <swecmyran> slash
+[1446420157] <lokidari> slash
+[1446420158] <evil_zebra> slash
+[1446420158] <dvrkkbd> today a bunch of you learned that Arch's sh has tab completion...
+[1446420158] <demozdw> slash
+[1446420158] <cthulrunner> tab
+[1446420158] <test1438390741> tab
+[1446420159] <twindragonsofchaos> slash
+[1446420159] <sirdigby83> slash
+[1446420163] <someguywholikesgames> v
+[1446420164] <yhonay> slash
+[1446420164] <twitchinstallsarchlinux> Winning command: slash
+[1446420164] <twitchinstallsarchlinux> VOTES: 'slash' = 43%, 'tab' = 7%
+[1446420165] <033bunbun> m
+[1446420165] <justicetheory> s
+[1446420166] <teknomantik> bah, linux kids. Learn BSD. sh is sh and you'll learn to like it!
+[1446420166] <jkentfromgithub> s
+[1446420166] <j_hass> s
+[1446420166] <tehtrueprophet> s
+[1446420166] <lefusselkater> s
+[1446420166] <kronmillerg> s
+[1446420166] <linghtoner> s
+[1446420167] <fruitiex> m
+[1446420167] <lestermfp> slash
+[1446420167] <defflo> s
+[1446420167] <dvrkkbd> s
+[1446420167] <testvs> s
+[1446420167] <hankthegrillhill> system_reset
+[1446420167] <intexity> s
+[1446420168] <evil_zebra> s
+[1446420168] <numinit> s
+[1446420168] <misson20000> s
+[1446420169] <install_it_dammit> s
+[1446420169] <swecmyran> s
+[1446420169] <motion_blurr> s
+[1446420170] <twindragonsofchaos> s
+[1446420170] <chulungs> s
+[1446420170] <test1438390741> slash
+[1446420170] <demozdw> s
+[1446420170] <miotatsu> s
+[1446420170] <nalterjun> s
+[1446420171] <agebronze> this is not dash this is bash
+[1446420171] <lokidari> s
+[1446420171] <ffmpex_> s
+[1446420172] <johnrox5231> s
+[1446420173] <iiiytn1k> s
+[1446420175] <append> s
+[1446420175] <heroickatora> s
+[1446420176] <nulltask> s
+[1446420176] <pur3h4k5> s
+[1446420179] <majorlazerlosstra> d
+[1446420179] <twitchinstallsarchlinux> Winning command: s
+[1446420179] <twitchinstallsarchlinux> VOTES: 's' = 44%, 'm' = 3%
+[1446420180] <lestermfp> s
+[1446420180] <fourbitfox> s
+[1446420180] <j_hass> tab
+[1446420180] <033bunbun> d
+[1446420180] <misson20000> d
+[1446420180] <justicetheory> d
+[1446420180] <lefusselkater> d
+[1446420181] <nalterjun> d
+[1446420181] <heroickatora> d
+[1446420181] <floatboth> BSD HAS TRUE SH
+[1446420181] <defflo> d
+[1446420181] <jkentfromgithub> d
+[1446420181] <linghtoner> d
+[1446420181] <lokidari> d
+[1446420181] <append> d
+[1446420181] <twindragonsofchaos> d
+[1446420181] <dvrkkbd> d
+[1446420181] <fourbitfox> d
+[1446420181] <intexity> d
+[1446420182] <testvs> d
+[1446420182] <agebronze> dash doesn't have autocompletion
+[1446420182] <install_it_dammit> d
+[1446420182] <johnrox5231> d
+[1446420183] <sirdigby83> s
+[1446420183] <iiiytn1k> d
+[1446420183] <justicetheory> tab
+[1446420183] <demozdw> d
+[1446420183] <the_nql> d
+[1446420184] <test1438390741> s
+[1446420184] <kronmillerg> d
+[1446420185] <miotatsu> d
+[1446420185] <elementhttp> d
+[1446420186] <ffmpex_> d
+[1446420186] <chulungs> d
+[1446420186] <pur3h4k5> d
+[1446420188] <maniexx> s
+[1446420189] <apswny> More like learned that ash/dash/sh are ancient and crap, and only ancient backwater distros like Debian still rely on them.
+[1446420189] <tomatpasser> n
+[1446420189] <kirimson> d
+[1446420190] <teknomantik> n
+[1446420191] <dolan44> Agebronze on arch, the bash package provides a /bin/sh symlink
+[1446420192] <sfar9999> d
+[1446420192] <aengoon9> that sh -> bash symlink was great when shellshock happened -_-
+[1446420193] <sirdigby83> d
+[1446420194] <motion_blurr> d
+[1446420194] <twitchinstallsarchlinux> Winning command: d
+[1446420194] <twitchinstallsarchlinux> VOTES: 'd' = 30%, 's' = 8%
+[1446420195] <computer_whisperer> d
+[1446420195] <justicetheory> a
+[1446420195] <j_hass> a
+[1446420195] <dvrkkbd> CURRENT COMMAND grub-install /dev/sda
+[1446420195] <misson20000> a
+[1446420195] <fourbitfox> a
+[1446420196] <miotatsu> a
+[1446420196] <jkentfromgithub> a
+[1446420196] <lokidari> a
+[1446420196] <nalterjun> a
+[1446420196] <defflo> a
+[1446420196] <heroickatora> a
+[1446420196] <033bunbun> a
+[1446420197] <append> a
+[1446420197] <computer_whisperer> a
+[1446420197] <chulungs> a
+[1446420197] <linghtoner> a
+[1446420197] <test1438390741> d
+[1446420197] <ffmpex_> a
+[1446420197] <range_finder01> backspace
+[1446420197] <magniffico> a
+[1446420198] <twindragonsofchaos> a
+[1446420198] <two_big_two_fail> s
+[1446420198] <stefanrvo> a
+[1446420198] <intexity> a
+[1446420198] <plink_plonk> backspace
+[1446420198] <james_james_jamesx4> d
+[1446420198] <mrpleasester> backspace
+[1446420198] <henry_hoo> backspace
+[1446420198] <johnsonandjohnston> a
+[1446420198] <nablren> backspace
+[1446420198] <kinkosa> backspace
+[1446420198] <kronmillerg> a
+[1446420198] <numinit> a
+[1446420199] <bingo_borna> backspace
+[1446420199] <lefusselkater> a
+[1446420199] <downstreamst> backspace
+[1446420199] <hell_oworld> backspace
+[1446420199] <testvs> a
+[1446420199] <dumblllerodor> backspace
+[1446420199] <minjol> backspace
+[1446420199] <jonecenah> backspace
+[1446420199] <blingoa> backspace
+[1446420199] <whistleing> backspace
+[1446420199] <swecmyran> A
+[1446420199] <ronweeasley> backspace
+[1446420199] <jorbloga> backspace
+[1446420200] <hesotroy> backspace
+[1446420200] <skakri_> a
+[1446420200] <king_johnson11> a
+[1446420200] <fanssallday> backspace
+[1446420200] <josh_minister> backspace
+[1446420200] <xrednefed> Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰_Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰
+[1446420200] <how_r_u2day> backspace
+[1446420200] <moobot> No excessive use of symbols allowed (XrednefeD) (warning)
+[1446420201] <defying_g> backspace
+[1446420201] <borshcle> backspace
+[1446420201] <pssssttttt> backspace
+[1446420201] <margethatttch> backspace
+[1446420202] <jornee> backspace
+[1446420202] <mr_pea_boddy> backspace
+[1446420202] <borchf> backspace
+[1446420202] <herminonegranger> backspace
+[1446420203] <tehtrueprophet> backspace
+[1446420203] <ijustwanted2play> backspace
+[1446420203] <dvrkkbd> backspace
+[1446420203] <gargblas> backspace
+[1446420203] <minyle> backspace
+[1446420203] <gringlee> backspace
+[1446420203] <sisterns> backspace
+[1446420203] <majorlazerlosstra> backspace
+[1446420204] <lobingoa> backspace
+[1446420204] <myfloor> b
+[1446420204] <itshapepnning> backspace
+[1446420204] <kirimson> a
+[1446420204] <jenkinna> backspace
+[1446420205] <whatsgoingoneh> backspace
+[1446420205] <henryamst> backspace
+[1446420205] <pacstrapbase> backspace
+[1446420205] <mornmal> backspace
+[1446420205] <justinberlake> backspace
+[1446420205] <jeroif> backspace
+[1446420205] <douglasatdam> backspace
+[1446420205] <zorrolegendof> b
+[1446420205] <dresssderdroors> backspace
+[1446420205] <ceileingwalls> backspace
+[1446420205] <someguywholikesgames> backspace
+[1446420205] <walkfivethousandmiles> backspace
+[1446420205] <computer_whisperer> enter
+[1446420205] <j_hass> ena
+[1446420206] <evil_zebra> backspace
+[1446420206] <sirdigby83> a
+[1446420206] <hooooover> backspace
+[1446420206] <dominososss> backspace
+[1446420206] <blastoffffff> backspace
+[1446420207] <archchroot> backspace
+[1446420207] <genfstab> backspace
+[1446420209] <lestermfp> a
+[1446420209] <johnrox5231> backspace
+[1446420209] <viaken> backspace
+[1446420209] <twitchinstallsarchlinux> Winning command: backspace
+[1446420209] <twitchinstallsarchlinux> VOTES: 'backspace' = 38%, 'a' = 17%
+[1446420210] <yhonay> a
+[1446420210] <j_hass> tab
+[1446420210] <033bunbun> d
+[1446420211] <dark_timer> backspace
+[1446420211] <jukshou> backspace
+[1446420212] <xrednefed> Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰_Ỏ̷͖͈̞̩͎̻̫̫̜͉̠̫͕̭̭̫̫̹̗̹͈̼̠̖͍͚̥͈̮̼͕̠̤̯̻̥̬̗̼̳̤̳̬̪̹͚̞̼̠͕̼̠̦͚̫͔̯̹͉͉̘͎͕̼̣̝͙̱̟̹̩̟̳̦̭͉̮̖̭̣̣̞̙̗̜̺̭̻̥͚͙̝̦̲̱͉͖͉̰̦͎̫̣̼͎͍̠̮͓̹̹͉̤̰̗̙͕͇͔̱͕̭͈̳̗̭͔̘̖̺̮̜̠͖̘͓̳͕̟̠̱̫̤͓͔̘̰̲͙͍͇̙͎̣̼̗̖͙̯͉̠̟͈͍͕̪͓̝̩̦̖̹̼̠̘̮͚̟͉̺̜͍͓̯̳̱̻͕̣̳͉̻̭̭̱͍̪̩̭̺͕̺̼̥̪͖̦̟͎̻̰
+[1446420212] <heroickatora> d
+[1446420212] <skakri_> d
+[1446420213] <numinit> d
+[1446420213] <intexity> d
+[1446420213] <misson20000> d
+[1446420214] <maniexx> d
+[1446420214] <dvrkkbd> d
+[1446420214] <defflo> d
+[1446420214] <sirdigby83> d
+[1446420214] <testvs> d
+[1446420215] <ffmpex_> d
+[1446420215] <linghtoner> d
+[1446420215] <teknomantik> b
+[1446420215] <test1438390741> a
+[1446420215] <evil_zebra> d
+[1446420215] <nalterjun> d
+[1446420215] <yhonay> d
+[1446420215] <swecmyran> D
+[1446420215] <computer_whisperer> d
+[1446420215] <fourbitfox> d
+[1446420215] <lefusselkater> d
+[1446420215] <kirimson> d
+[1446420216] <khoyo> d
+[1446420216] <mduo14> *
+[1446420216] <viaken> d
+[1446420217] <someguywholikesgames> a
+[1446420217] <miotatsu> d
+[1446420218] <jkentfromgithub> d
+[1446420219] <sirdigby83> a
+[1446420219] <majorlazerlosstra> d
+[1446420220] <nulltask> d
+[1446420220] <maniexx> Why backspace?
+[1446420221] <range_finder01> m
+[1446420221] <mrpleasester> m
+[1446420222] <ceileingwalls> b
+[1446420222] <herminonegranger> m
+[1446420222] <bingo_borna> m
+[1446420222] <jeroif> m
+[1446420222] <droobey> d
+[1446420222] <douglasatdam> m
+[1446420222] <nablren> m
+[1446420222] <blingoa> m
+[1446420222] <plink_plonk> m
+[1446420222] <morlogbog> m
+[1446420222] <iiiytn1k> d
+[1446420222] <ijustwanted2play> m
+[1446420223] <minyle> m
+[1446420223] <blastoffffff> d
+[1446420223] <genfstab> m
+[1446420223] <two_big_two_fail> m
+[1446420223] <lobingoa> d
+[1446420223] <myfloor> m
+[1446420223] <josh_minister> m
+[1446420223] <jornee> m
+[1446420224] <mr_pea_boddy> m
+[1446420224] <jenkinna> m
+[1446420224] <how_r_u2day> m
+[1446420224] <justinberlake> m
+[1446420224] <minjol> a
+[1446420224] <gargblas> m
+[1446420224] <ronweeasley> m
+[1446420224] <twitchinstallsarchlinux> Winning command: d
+[1446420224] <margethatttch> m
+[1446420224] <twitchinstallsarchlinux> VOTES: 'd' = 23%, 'm' = 15%
+[1446420225] <blinkerst> m
+[1446420225] <henryamst> m
+[1446420225] <lestermfp> d
+[1446420225] <misson20000> Because botnet
+[1446420225] <whatsgoingoneh> m
+[1446420225] <majorlazerlosstra> n
+[1446420225] <j_hass> a
+[1446420225] <dolan44> Apswny debian isn't "ancient backwater"
+[1446420225] <fanssallday> m
+[1446420225] <pssssttttt> m
+[1446420225] <dumblllerodor> m
+[1446420225] <sirdigby83> d
+[1446420225] <whistleing> m
+[1446420226] <walkfivethousandmiles> m
+[1446420226] <skakri_> a
+[1446420226] <archchroot> m
+[1446420226] <defflo> a
+[1446420226] <hesotroy> m
+[1446420226] <033bunbun> a
+[1446420226] <king_johnson11> m
+[1446420226] <dominososss> m
+[1446420226] <heroickatora> a
+[1446420226] <linghtoner> a
+[1446420226] <nalterjun> a
+[1446420226] <plansma> m
+[1446420226] <testvs> a
+[1446420226] <lefusselkater> a
+[1446420227] <milessee> m
+[1446420227] <henry_hoo> m
+[1446420227] <hell_oworld> m
+[1446420227] <test1438390741> d
+[1446420227] <itshapepnning> m
+[1446420227] <hooooover> m
+[1446420227] <floatboth> Look at bash source, it's HORRIBLE
+[1446420227] <johnsonandjohnston> m
+[1446420227] <intexity> a
+[1446420227] <jorbloga> a
+[1446420228] <maniexx> a
+[1446420228] <droobey> a
+[1446420228] <dvrkkbd> VOTE a
+[1446420228] <downstreamst> m
+[1446420228] <fourbitfox> a
+[1446420228] <borshcle> m
+[1446420229] <pur3h4k5> a
+[1446420229] <gringlee> m
+[1446420229] <defying_g> m
+[1446420229] <twindragonsofchaos> a
+[1446420229] <emilun> a
+[1446420231] <kronmillerg> a
+[1446420231] <install_it_dammit> a
+[1446420231] <miotatsu> a
+[1446420231] <misson20000> a
+[1446420231] <nebuleon> d
+[1446420232] <demozdw> a
+[1446420232] <lefusselkater> why m?
+[1446420232] <hmmterve> a
+[1446420233] <ffmpex_> a
+[1446420233] <atanasmk16> a
+[1446420234] <range_finder01> enter
+[1446420234] <defying_g> enter
+[1446420234] <teknomantik> backspace
+[1446420234] <myfloor> enter
+[1446420234] <jkentfromgithub> a
+[1446420234] <iiiytn1k> a
+[1446420234] <minyle> enter
+[1446420234] <blastoffffff> enter
+[1446420234] <pssssttttt> enter
+[1446420234] <hankthegrillhill> m
+[1446420234] <sisterns> enter
+[1446420235] <genfstab> L
+[1446420235] <ijustwanted2play> enter
+[1446420235] <whistleing> enter
+[1446420235] <hesotroy> enter
+[1446420235] <james_james_jamesx4> enter
+[1446420235] <blingoa> a
+[1446420235] <gringlee> a
+[1446420235] <numinit> a
+[1446420236] <jenkinna> enter
+[1446420236] <itshapepnning> enter
+[1446420236] <jorbloga> enter
+[1446420236] <how_r_u2day> enter
+[1446420236] <josh_minister> e
+[1446420236] <computer_whisperer> a
+[1446420236] <mr_pea_boddy> enter
+[1446420236] <douglasatdam> enter
+[1446420236] <nablren> enter
+[1446420237] <l0d0wn> a
+[1446420237] <mornmal> enter
+[1446420237] <maxpixels> a
+[1446420237] <sirdigby83> a
+[1446420237] <ceileingwalls> e
+[1446420237] <jonecenah> enter
+[1446420237] <kinkosa> enter
+[1446420237] <bingo_borna> enter
+[1446420237] <insentience> KKona
+[1446420237] <dghelneshi> a
+[1446420237] <swecmyran> a
+[1446420238] <king_johnson11> enter
+[1446420238] <minjol> b
+[1446420238] <2pi_noscope> a
+[1446420238] <two_big_two_fail> enter
+[1446420238] <borshcle> enter
+[1446420238] <johnsonandjohnston> enter
+[1446420238] <jeroif> enter
+[1446420238] <archchroot> enter
+[1446420239] <someguywholikesgames> d
+[1446420239] <henry_hoo> enter
+[1446420239] <downstreamst> a
+[1446420239] <henryamst> enter
+[1446420239] <dominososss> enter
+[1446420239] <heroickatora> He just blew his load, defeat the bot
+[1446420239] <yhonay> a
+[1446420239] <hooooover> enter
+[1446420239] <twitchinstallsarchlinux> Winning command: enter
+[1446420239] <twitchinstallsarchlinux> VOTES: 'enter' = 22%, 'a' = 19%
+[1446420239] <milessee> enter
+[1446420240] <justinberlake> enter
+[1446420240] <morlogbog> enter
+[1446420240] <lestermfp> a
+[1446420240] <margethatttch> enter
+[1446420240] <dresssderdroors> enter
+[1446420240] <jab416171> b
+[1446420240] <borchf> enter
+[1446420240] <zorrolegendof> m
+[1446420240] <j_hass> enter
+[1446420240] <mrpleasester> enter
+[1446420241] <033bunbun> 1
+[1446420241] <blinkerst> a
+[1446420241] <whatsgoingoneh> enter
+[1446420241] <lefusselkater> enter
+[1446420241] <plink_plonk> enter
+[1446420241] <test1438390741> BOTNET IS ON TO US
+[1446420241] <ronweeasley> enter
+[1446420241] <jornee> enter
+[1446420241] <fanssallday> enter
+[1446420241] <lobingoa> enter
+[1446420241] <pacstrapbase> enter
+[1446420242] <viaken> a
+[1446420242] <fourbitfox> enter
+[1446420242] <tehtrueprophet> nop
+[1446420243] <aengoon9> yeah Debian was not vulnerable to shellshock in many cases, Arch was
+[1446420243] <emilun> enter
+[1446420243] <floatboth> Like most GNU code, bash is BAD
+[1446420244] <test1438390741> a
+[1446420244] <nalterjun> up
+[1446420244] <skakri_> enter
+[1446420244] <install_it_dammit> enter
+[1446420244] <ffmpex_> enter
+[1446420245] <teknomantik> f
+[1446420245] <defflo> up
+[1446420245] <2pi_noscope> up
+[1446420245] <majorlazerlosstra> enter
+[1446420246] <twindragonsofchaos> backspace
+[1446420246] <ubuntudizzle> enter
+[1446420246] <droobey> enter
+[1446420247] <magniffico> enter
+[1446420247] <kronmillerg> no this is not gonna work
+[1446420248] <testvs> up
+[1446420249] <motion_blurr> a
+[1446420250] <dvrkkbd> WHY
+[1446420250] <therealnishay> enter
+[1446420250] <maniexx> up
+[1446420251] <fourbitfox> ctrl-c
+[1446420252] <jkentfromgithub> up
+[1446420252] <dvrkkbd> up
+[1446420252] <intexity> oh ***
+[1446420253] <minibuddha> enter
+[1446420254] <dvrkkbd> ctrl-c
+[1446420254] <evil_zebra> oops
+[1446420254] <stefanrvo> enter
+[1446420254] <twitchinstallsarchlinux> Winning command: enter
+[1446420254] <twitchinstallsarchlinux> VOTES: 'enter' = 23%, 'up' = 13%
+[1446420255] <j_hass> nop
+[1446420256] <heroickatora> nop
+[1446420257] <033bunbun> up
+[1446420257] <dolan44> up
+[1446420258] <misson20000> up
+[1446420258] <tehtrueprophet> ctrl-c
+[1446420259] <test1438390741> nop
+[1446420259] <install_it_dammit> nop
+[1446420259] <justicetheory> up
+[1446420259] <majorlazerlosstra> nop
+[1446420260] <yhonay> nop
+[1446420260] <johnrox5231> nop
+[1446420260] <someguywholikesgames> you can tell the botters as they are a character or two off
+[1446420260] <kirimson> nop
+[1446420260] <evil_zebra> ctrl-c
+[1446420261] <hankthegrillhill> *
+[1446420262] <maniexx> nop nop nop
+[1446420263] <k4r4f4> RRRRRRRRRRRRRREEEEEEEEEEEEEEEEEEEEEEE
+[1446420263] <moobot> No spamming allowed (k4r4f4)
+[1446420263] <viaken> nop
+[1446420263] <defflo> go up and finish command
+[1446420264] <jkentfromgithub> up
+[1446420266] <tomatpasser> ctrl-c
+[1446420267] <ubuntudizzle> np
+[1446420267] <twindragonsofchaos> ctrl-c
+[1446420268] <someguywholikesgames> nop
+[1446420268] <ubuntudizzle> nop
+[1446420269] <skakri_> ctrl-c
+[1446420269] <twitchinstallsarchlinux> Winning command: nop
+[1446420269] <twitchinstallsarchlinux> VOTES: 'nop' = 18%, 'up' = 18%, 'ctrl-c' = 5%
+[1446420270] <kronmillerg> nop
+[1446420270] <floatboth> up
+[1446420270] <justicetheory> nop
+[1446420271] <cthulrunner> ctrl-s
+[1446420272] <emilun> ctrl-c
+[1446420272] <heroickatora> ctrl-c
+[1446420272] <dvrkkbd> freaking people hitting enter too early
+[1446420272] <dolan44> Moobot pls go
+[1446420272] <motion_blurr> ctrl-c
+[1446420274] <demozdw> ctrl-c
+[1446420274] <stefanrvo> nop
+[1446420274] <nalterjun> up
+[1446420275] <numinit> up
+[1446420275] <sirdigby83> up
+[1446420276] <magniffico> ctrl-c
+[1446420276] <defflo> up
+[1446420276] <fourbitfox> up
+[1446420277] <intexity> up
+[1446420278] <l0d0wn> up
+[1446420278] <evil_zebra> up
+[1446420278] <lefusselkater> up
+[1446420279] <justicetheory> up
+[1446420279] <kirimson> up
+[1446420279] <kronmillerg> up
+[1446420279] <jkentfromgithub> up
+[1446420279] <viaken> uh
+[1446420280] <johnrox5231> up
+[1446420280] <skakri_> up
+[1446420280] <emilun> up
+[1446420280] <maxpixels> up
+[1446420280] <dvrkkbd> up
+[1446420281] <twindragonsofchaos> up
+[1446420281] <steelreservedrinker> up
+[1446420281] <motion_blurr> up
+[1446420281] <z3r0kill> ctrl-c
+[1446420282] <lestermfp> up
+[1446420282] <nebuleon> up
+[1446420282] <droobey> up
+[1446420283] <jab416171> up
+[1446420283] <cthulrunner> ctrl-s
+[1446420283] <chulungs> up
+[1446420284] <viaken> nop
+[1446420284] <cthulrunner> ctrl-s
+[1446420284] <lokidari> up
+[1446420284] <twitchinstallsarchlinux> Winning command: up
+[1446420284] <twitchinstallsarchlinux> VOTES: 'up' = 49%, 'ctrl-c' = 9%
+[1446420285] <jamisonl> up
+[1446420285] <someguywholikesgames> up
+[1446420285] <teknomantik> ctrl-p
+[1446420286] <defflo> a
+[1446420286] <lefusselkater> a
+[1446420286] <2pi_noscope> a
+[1446420286] <j_hass> a
+[1446420286] <033bunbun> a
+[1446420286] <misson20000> a
+[1446420286] <fourbitfox> a
+[1446420287] <l0d0wn> a
+[1446420287] <numinit> a
+[1446420287] <yhonay> up
+[1446420287] <tehtrueprophet> a
+[1446420287] <test1438390741> up
+[1446420287] <dvrkkbd> a
+[1446420287] <emilun> a
+[1446420287] <intexity> a
+[1446420287] <kirimson> a
+[1446420287] <motion_blurr> a
+[1446420287] <nebuleon> a
+[1446420288] <testvs> a
+[1446420288] <linghtoner> a
+[1446420288] <maxpixels> a
+[1446420288] <nalterjun> a
+[1446420288] <floatboth> a
+[1446420289] <kronmillerg> a
+[1446420289] <iiiytn1k> a
+[1446420289] <demozdw> a
+[1446420289] <justicetheory> a
+[1446420289] <dvrkkbd> VOTE a
+[1446420290] <chulungs> a
+[1446420290] <jamisonl> a
+[1446420290] <ubuntudizzle> u
+[1446420290] <someguywholikesgames> a
+[1446420291] <ffmpex_> a
+[1446420291] <ubuntudizzle> up
+[1446420292] <elementhttp> a
+[1446420292] <therealnishay> a
+[1446420293] <johnrox5231> a
+[1446420293] <sirdigby83> a
+[1446420294] <jkentfromgithub> a
+[1446420294] <evil_zebra> a
+[1446420294] <droobey> a
+[1446420296] <yhonay> a
+[1446420296] <fruitiex> a
+[1446420296] <maniexx> a
+[1446420297] <numinit> enter next
+[1446420297] <viaken> up
+[1446420298] <test1438390741> WE NEED UP
+[1446420299] <lestermfp> a
+[1446420299] <pugnistic> a
+[1446420299] <twitchinstallsarchlinux> Winning command: a
+[1446420299] <twitchinstallsarchlinux> VOTES: 'a' = 40%, 'up' = 7%
+[1446420300] <skakri_> enter
+[1446420300] <ziv0> enter
+[1446420301] <033bunbun> 1
+[1446420301] <emilun> enter
+[1446420301] <j_hass> enter
+[1446420301] <heroickatora> enter
+[1446420301] <pugnistic> enter
+[1446420301] <2pi_noscope> enter
+[1446420301] <nebuleon> enter
+[1446420301] <johnrox5231> enter
+[1446420301] <linghtoner> enter
+[1446420301] <test1438390741> a
+[1446420301] <intexity> enter
+[1446420301] <nalterjun> enter
+[1446420301] <demozdw> enter
+[1446420301] <numinit> enter
+[1446420301] <fourbitfox> enter
+[1446420301] <droobey> enter
+[1446420302] <kronmillerg> enter
+[1446420302] <dvrkkbd> enter
+[1446420302] <tehtrueprophet> enter
+[1446420302] <l0d0wn> enter
+[1446420302] <kirimson> enter
+[1446420302] <maxpixels> entter
+[1446420302] <therealnishay> enter
+[1446420302] <testvs> enter
+[1446420303] <lefusselkater> enter
+[1446420303] <el_durn> enter
+[1446420303] <motion_blurr> enter
+[1446420303] <justicetheory> enter
+[1446420303] <maniexx> enter
+[1446420303] <nutzey> enter
+[1446420303] <thesovs> up
+[1446420304] <kronmillerg> no we're good
+[1446420304] <install_it_dammit> enter
+[1446420304] <fruitiex> enter
+[1446420304] <steelreservedrinker> 1
+[1446420305] <iiiytn1k> enter
+[1446420305] <z3r0kill> enter
+[1446420305] <viaken> a
+[1446420305] <ubuntudizzle> enter
+[1446420305] <jkentfromgithub> enter
+[1446420306] <jukshou> enter
+[1446420306] <eigenvektor> enter
+[1446420306] <chulungs> enter
+[1446420306] <ffmpex_> enter
+[1446420307] <someguywholikesgames> :P
+[1446420307] <jamisonl> enter
+[1446420307] <evil_zebra> enter
+[1446420307] <sirdigby83> enter
+[1446420307] <lestermfp> enter
+[1446420308] <elementhttp> enter
+[1446420309] <stefanrvo> enter
+[1446420309] <demozdw> We are good
+[1446420309] <someguywholikesgames> a
+[1446420310] <numinit> enter
+[1446420310] <defflo> enter
+[1446420310] <samis2001> enter
+[1446420310] <nulltask> enter
+[1446420310] <magniffico> nop
+[1446420311] <yhonay> enter
+[1446420312] <viaken> tab
+[1446420313] <majorlazerlosstra> enter
+[1446420314] <johnrox5231> WHAT NEXT?
+[1446420314] <twitchinstallsarchlinux> Winning command: enter
+[1446420314] <twitchinstallsarchlinux> VOTES: 'enter' = 42%, '1' = 2%, 'tab' = 2%, 'a' = 2%
+[1446420315] <skakri_> nop
+[1446420315] <jukshou> nop
+[1446420315] <hankthegrillhill> system_reset
+[1446420316] <append> nop
+[1446420316] <battle_little> this is greatness lmao
+[1446420317] <testvs> nop
+[1446420317] <fruitiex> g
+[1446420318] <numinit> thank ***
+[1446420318] <twindragonsofchaos> enter
+[1446420318] <misson20000> nop
+[1446420318] <eigenvektor> nop
+[1446420318] <pugnistic> nop
+[1446420318] <2pi_noscope> g
+[1446420318] <justicetheory> system_reset
+[1446420318] <demozdw> nop
+[1446420319] <install_it_dammit> nop
+[1446420319] <nalterjun> g
+[1446420319] <l0d0wn> nop
+[1446420319] <033bunbun> nop
+[1446420319] <thesovs> enter
+[1446420320] <nutzey> nop
+[1446420320] <johnrox5231> nop
+[1446420321] <viaken> enter
+[1446420321] <yhonay> g
+[1446420321] <nebuleon> nop
+[1446420321] <heroickatora> nop
+[1446420322] <majorlazerlosstra> nop
+[1446420322] <lefusselkater> nop
+[1446420322] <maxpixels> nop
+[1446420323] <defflo> nop
+[1446420323] <dvrkkbd> >> LAG: we already hit up. Watch the channel chat instead if you aren't already
+[1446420323] <tehtrueprophet> nop
+[1446420323] <khoyo> nop
+[1446420323] <sakakinozomi> It has been a while since the last memetest... we should do it just in case Kappa
+[1446420324] <scottjive> nop
+[1446420324] <magniffico> ctrl-c
+[1446420326] <test1438390741> enter
+[1446420327] <lestermfp> nop
+[1446420328] <listentome42> enter
+[1446420329] <teddygreg> lets init 0
+[1446420329] <twitchinstallsarchlinux> Winning command: nop
+[1446420329] <twitchinstallsarchlinux> VOTES: 'nop' = 49%, 'enter' = 9%
+[1446420330] <chulungs> nop
+[1446420330] <j_hass> nop
+[1446420331] <hmmterve> f
+[1446420332] <tehtrueprophet> no
+[1446420332] <twindragonsofchaos> nop
+[1446420333] <someguywholikesgames> 1
+[1446420334] <iiiytn1k> nop
+[1446420335] <dvrkkbd> nop
+[1446420335] <majorlazerlosstra> f
+[1446420336] <teknomantik> ctrl-c
+[1446420336] <dolan44> useful webzone: http://twitchvotes.danopia.net/
+[1446420336] <test1438390741> nop
+[1446420336] <twindragonsofchaos> Nop
+[1446420337] <the_nql> nop
+[1446420338] <intexity> nop
+[1446420338] <dvrkkbd> VOTE nop
+[1446420338] <tehtrueprophet> nop
+[1446420340] <jamisonl> nop
+[1446420340] <listentome42> nop
+[1446420340] <haylebop> enter
+[1446420340] <heroickatora> and again, unitl we are finished
+[1446420341] <yhonay> nop
+[1446420341] <kronmillerg> nop
+[1446420341] <steelreservedrinker> alt-f5
+[1446420341] <someguywholikesgames> nop
+[1446420342] <heroickatora> nop
+[1446420343] <teddygreg> nop
+[1446420343] <numinit> nop
+[1446420343] <ffmpex_> nop
+[1446420343] <jkentfromgithub> nop
+[1446420344] <spamerl> nop
+[1446420344] <mouthheroex> enter
+[1446420344] <nutzey> 1
+[1446420344] <fourbitfox> nop
+[1446420344] <twitchinstallsarchlinux> Winning command: nop
+[1446420344] <twitchinstallsarchlinux> VOTES: 'nop' = 56%, 'enter' = 7%
+[1446420345] <dvrkkbd> nop
+[1446420345] <motion_blurr> nop
+[1446420345] <nutzey> nop
+[1446420346] <lefusselkater> whats next?
+[1446420346] <tomatpasser> nop
+[1446420346] <floatboth> MEMES ARE TESTED 100% DANK
+[1446420347] <fruitiex> nop
+[1446420348] <twindragonsofchaos> nop
+[1446420348] <viaken> nop
+[1446420349] <lefusselkater> nop
+[1446420349] <justicetheory> nop
+[1446420349] <majorlazerlosstra> nop
+[1446420349] <033bunbun> nop
+[1446420350] <haylebop> ctrl-c
+[1446420350] <misson20000> nop
+[1446420351] <johnrox5231> nop
+[1446420352] <h0n24x> nop
+[1446420352] <evil_zebra> nop
+[1446420352] <pugnistic> nop
+[1446420352] <testvs> > writing in chat telling people to read chat
+[1446420353] <ubuntudizzle> nop
+[1446420353] <nebuleon> nop
+[1446420353] <demozdw> nop
+[1446420354] <floatboth> nop
+[1446420354] <maniexx> nop
+[1446420354] <heroickatora> just wait
+[1446420354] <therealnishay> nop
+[1446420355] <magnetmagnate> nop
+[1446420355] <chulungs> g
+[1446420356] <fredgerd> alt-f4
+[1446420356] <coolcokecan> ctrl-c
+[1446420357] <viaken> g
+[1446420357] <numinit> g
+[1446420358] <heroickatora> nop
+[1446420358] <swecmyran> ctrl-b
+[1446420359] <twitchinstallsarchlinux> Winning command: nop
+[1446420359] <jkentfromgithub> g
+[1446420359] <twitchinstallsarchlinux> VOTES: 'nop' = 32%, 'g' = 6%
+[1446420360] <misson20000> g
+[1446420360] <justicetheory> MEMETEST
+[1446420360] <033bunbun> p
+[1446420360] <j_hass> g
+[1446420361] <defflo> nop
+[1446420361] <2pi_noscope> g
+[1446420362] <evil_zebra> g
+[1446420362] <dvrkkbd> NEXT COMMAND grub-mkconfig -o /boot/grub/grub.cfg
+[1446420363] <nalterjun> g
+[1446420363] <magnetmagnate> ctrl-c
+[1446420364] <jkentfromgithub> g
+[1446420364] <fourbitfox> g
+[1446420364] <someguywholikesgames> READ THIS STUFF
+[1446420365] <coolcokecan> a
+[1446420365] <intexity> g
+[1446420365] <linghtoner> g
+[1446420365] <lefusselkater> g
+[1446420365] <viaken> a
+[1446420366] <maxpixels> g
+[1446420366] <kirimson> g
+[1446420366] <emilun> NEXT COMMAND grub-mkconfig -o /boot/grub/grub.cfg
+[1446420366] <lestermfp> g
+[1446420366] <kronmillerg> grub-mkconfig -o /boot/grub/grub.cfg
+[1446420366] <theedragonkeeper> how can a meme be dank.... use a dictionary
+[1446420366] <psycix> GOD HAS BEEN SPOTTED
+[1446420366] <demozdw> g
+[1446420367] <yhonay> g
+[1446420367] <skakri_> g
+[1446420367] <coolcokecan> ctrl-c
+[1446420367] <idtownie_> g
+[1446420367] <swecmyran> g
+[1446420368] <dvrkkbd> g
+[1446420368] <viaken> g
+[1446420368] <maniexx> g
+[1446420368] <l0d0wn> g
+[1446420369] <kronmillerg> g
+[1446420369] <apswny> Time to mkconfig
+[1446420369] <emilun> g
+[1446420369] <majorlazerlosstra> a
+[1446420369] <tehtrueprophet> nop
+[1446420369] <droobey> g
+[1446420370] <install_it_dammit> g
+[1446420370] <mouthheroex> !infi
+[1446420371] <noletreni> g
+[1446420371] <spamerl> g
+[1446420371] <ubuntudizzle> g
+[1446420372] <twindragonsofchaos> g
+[1446420373] <tomatpasser> g
+[1446420374] <mouthheroex> g
+[1446420374] <twitchinstallsarchlinux> Winning command: g
+[1446420374] <twitchinstallsarchlinux> VOTES: 'g' = 53%, 'nop' = 5%, 'ctrl-c' = 5%
+[1446420375] <khoyo> g
+[1446420375] <test1438390741> g
+[1446420375] <tehtrueprophet> g
+[1446420375] <twindragonsofchaos> YES
+[1446420375] <dathuglife> g
+[1446420375] <idtownie_> r
+[1446420375] <skakri_> r
+[1446420375] <j_hass> r
+[1446420375] <linghtoner> r
+[1446420375] <jkentfromgithub> r
+[1446420376] <droobey> r
+[1446420376] <kronmillerg> r
+[1446420376] <033bunbun> r
+[1446420376] <someguywholikesgames> U SHOULD READ THIS
+[1446420376] <numinit> r
+[1446420376] <motion_blurr> r
+[1446420376] <tomatpasser> r
+[1446420376] <intexity> r
+[1446420376] <defflo> g
+[1446420377] <swecmyran> r
+[1446420377] <dvrkkbd> r
+[1446420377] <nalterjun> r
+[1446420377] <kirimson> r
+[1446420377] <testvs> r
+[1446420377] <lefusselkater> r
+[1446420377] <maxpixels> r
+[1446420377] <install_it_dammit> r
+[1446420377] <l0d0wn> r
+[1446420377] <shadowthief19> HOW THE HELL IS THIS WORKING?!?!
+[1446420377] <fourbitfox> r
+[1446420377] <ziv0> r
+[1446420378] <mduo14> r
+[1446420378] <demozdw> r
+[1446420378] <emilun> r
+[1446420378] <twindragonsofchaos> r
+[1446420379] <defflo> r
+[1446420379] <maniexx> r
+[1446420379] <apswny> Man, slowest install ever.
+[1446420379] <tehtrueprophet> r
+[1446420379] <chulungs> r
+[1446420380] <noletreni> r
+[1446420380] <evil_zebra> r
+[1446420380] <cthulrunner> ctrl-s for success :P
+[1446420381] <sirdigby83> g
+[1446420381] <teknomantik> system_reset
+[1446420381] <2pi_noscope> r
+[1446420382] <someguywholikesgames> Y NOT READ THIS
+[1446420384] <khoyo> r
+[1446420384] <test1438390741> r
+[1446420385] <cthulrunner> ctrl-s
+[1446420386] <hankthegrillhill> system_reset
+[1446420386] <cthulrunner> ctrl-s
+[1446420386] <sirdigby83> r
+[1446420387] <the_nql> r
+[1446420388] <steelreservedrinker> ctrl-s
+[1446420388] <someguywholikesgames> READ THIS ALREADY
+[1446420389] <twitchinstallsarchlinux> Winning command: r
+[1446420389] <twitchinstallsarchlinux> VOTES: 'r' = 33%, 'ctrl-s' = 5%
+[1446420390] <cthulrunner> ctrl-s
+[1446420390] <j_hass> u
+[1446420391] <kronmillerg> u
+[1446420391] <swecmyran> u
+[1446420391] <skakri_> u
+[1446420391] <emilun> u
+[1446420391] <fourbitfox> u
+[1446420391] <lefusselkater> u
+[1446420391] <demozdw> u
+[1446420391] <idtownie_> u
+[1446420391] <nalterjun> u
+[1446420391] <dvrkkbd> u
+[1446420391] <intexity> u
+[1446420391] <033bunbun> u
+[1446420392] <defflo> u
+[1446420392] <testvs> u
+[1446420392] <noletreni> u
+[1446420392] <install_it_dammit> u
+[1446420392] <jkentfromgithub> u
+[1446420392] <tomatpasser> u
+[1446420392] <numinit> u
+[1446420392] <cthulrunner> ctrl-s
+[1446420392] <minibuddha> r
+[1446420392] <maxpixels> u
+[1446420392] <msevilgenius> u
+[1446420393] <chulungs> u
+[1446420393] <2pi_noscope> u
+[1446420394] <sakakinozomi> boot_drive
+[1446420394] <floatboth> ctrl-s
+[1446420395] <cthulrunner> ctrl-s
+[1446420395] <kirimson> u
+[1446420396] <viaken> u
+[1446420396] <someguywholikesgames> up
+[1446420396] <misson20000> u
+[1446420398] <the_nql> u
+[1446420398] <kappaperino> g
+[1446420398] <majorlazerlosstra> ctrl-s
+[1446420398] <dvrkkbd> CURRENT: grub-mkconfig -o /boot/grub/grub.cfg
+[1446420399] <viaken> I'm a lagger.
+[1446420399] <teknomantik> you say read like I want this to succeed
+[1446420399] <sirdigby83> u
+[1446420400] <yhonay> u
+[1446420401] <mouthheroex> !info
+[1446420401] <dolan44> Theedragonkeeper in the same way a marijeuenea can be dank, my man
+[1446420401] <fakerinstallsarch> BRING BACK ANARCHY YOU RETARD DEVS
+[1446420401] <therealnishay> u
+[1446420402] <erin494> u
+[1446420404] <twitchinstallsarchlinux> Winning command: u
+[1446420404] <twitchinstallsarchlinux> VOTES: 'u' = 38%, 'ctrl-s' = 8%
+[1446420405] <l0d0wn> u
+[1446420405] <swecmyran> b
+[1446420405] <skakri_> bb
+[1446420406] <demozdw> b
+[1446420406] <j_hass> b
+[1446420406] <jkentfromgithub> b
+[1446420406] <emilun> b
+[1446420406] <nalterjun> b
+[1446420406] <numinit> grub-mkc<tab>
+[1446420406] <misson20000> b
+[1446420406] <kronmillerg> b
+[1446420406] <iiiytn1k> b
+[1446420406] <noletreni> b
+[1446420406] <testvs> b
+[1446420406] <lefusselkater> b
+[1446420407] <dvrkkbd> b
+[1446420407] <the_nql> b
+[1446420407] <idtownie_> b
+[1446420407] <tomatpasser> b
+[1446420407] <intexity> b
+[1446420407] <033bunbun> b
+[1446420407] <skakri_> b
+[1446420407] <justicetheory> b
+[1446420408] <viaken> b
+[1446420408] <twindragonsofchaos> b
+[1446420408] <install_it_dammit> b
+[1446420408] <l0d0wn> b
+[1446420408] <msevilgenius> b
+[1446420408] <defflo> b
+[1446420408] <fourbitfox> b
+[1446420410] <therealnishay> b
+[1446420410] <maniexx> b
+[1446420410] <throawayaccount> b
+[1446420411] <tranqui0> g
+[1446420412] <dolan44> Fakerinstallsarch stay buttmad my man
+[1446420412] <2pi_noscope> b
+[1446420413] <test1438390741> u
+[1446420415] <sirdigby83> b
+[1446420415] <maxpixels> b
+[1446420415] <dolan44> b
+[1446420415] <yhonay> Teknomantik we forgive you
+[1446420416] <minibuddha> u
+[1446420418] <0bobthejanitor> Sweet dubstep Kappa
+[1446420419] <mouthheroex> r
+[1446420419] <twitchinstallsarchlinux> Winning command: b
+[1446420419] <twitchinstallsarchlinux> VOTES: 'b' = 47%, 'r' = 3%
+[1446420420] <idtownie_> m
+[1446420420] <misson20000> -
+[1446420420] <j_hass> -
+[1446420421] <skakri_> -
+[1446420421] <viaken> -
+[1446420421] <demozdw> -
+[1446420421] <nalterjun> -
+[1446420421] <tomatpasser> space
+[1446420421] <jkentfromgithub> -
+[1446420421] <lefusselkater> -
+[1446420422] <2pi_noscope> -
+[1446420422] <033bunbun> -
+[1446420422] <install_it_dammit> -
+[1446420422] <emilun> -
+[1446420422] <noletreni> -
+[1446420422] <kronmillerg> -
+[1446420422] <swecmyran> 0
+[1446420422] <numinit> -
+[1446420423] <edgarware_exe> -
+[1446420423] <johnrox5231> -
+[1446420423] <yhonay> -
+[1446420423] <the_nql> -
+[1446420423] <intexity> -
+[1446420424] <chulungs> -
+[1446420424] <iiiytn1k> -
+[1446420424] <swecmyran> -
+[1446420424] <testvs> -
+[1446420424] <therealnishay> -
+[1446420424] <throawayaccount> ------
+[1446420424] <twindragonsofchaos> -
+[1446420425] <majorlazerlosstra> 0
+[1446420425] <msevilgenius> -
+[1446420425] <trigonal> r
+[1446420425] <maxpixels> -
+[1446420426] <kappaperino> b
+[1446420426] <dolan44> -
+[1446420426] <someguywholikesgames> b
+[1446420426] <defflo> -
+[1446420426] <dvrkkbd> -
+[1446420426] <throawayaccount> -
+[1446420428] <idtownie_> -
+[1446420428] <sirdigby83> -
+[1446420430] <tehtrueprophet> dash
+[1446420431] <lestermfp> -
+[1446420432] <tehtrueprophet> -
+[1446420434] <maniexx> -
+[1446420434] <teknomantik> ctrl-u
+[1446420434] <twitchinstallsarchlinux> Winning command: -
+[1446420434] <twitchinstallsarchlinux> VOTES: '-' = 40%, 'b' = 5%
+[1446420435] <033bunbun> m
+[1446420435] <j_hass> m
+[1446420435] <skakri_> m
+[1446420435] <swecmyran> m
+[1446420435] <misson20000> m
+[1446420436] <lefusselkater> m
+[1446420436] <maxpixels> m
+[1446420436] <johnrox5231> m
+[1446420436] <demozdw> m
+[1446420436] <emilun> m
+[1446420436] <msevilgenius> m
+[1446420436] <tomatpasser> m
+[1446420436] <kronmillerg> m
+[1446420437] <the_nql> m
+[1446420437] <numinit> m
+[1446420437] <intexity> m
+[1446420437] <testvs> m
+[1446420437] <nalterjun> m
+[1446420437] <yhonay> m
+[1446420437] <viaken> tab
+[1446420437] <install_it_dammit> m
+[1446420437] <jkentfromgithub> m
+[1446420438] <dvrkkbd> m
+[1446420438] <idtownie_> m
+[1446420438] <iiiytn1k> m
+[1446420439] <teknomantik> ctrl-c
+[1446420439] <defflo> m
+[1446420439] <majorlazerlosstra> n
+[1446420439] <twindragonsofchaos> ?!
+[1446420439] <lestermfp> m
+[1446420439] <therealnishay> m
+[1446420440] <nebuleon> m
+[1446420441] <maniexx> tab next
+[1446420441] <someguywholikesgames> dash
+[1446420442] <dolan44> m
+[1446420442] <2pi_noscope> m
+[1446420442] <kappaperino> -
+[1446420443] <dvrkkbd> >> grub-mkconfig -o /boot/grub/grub.cfg
+[1446420443] <tehtrueprophet> m
+[1446420444] <viaken> Why are we not using tab-complete?
+[1446420444] <numinit> grub-mkc<tab>
+[1446420445] <noletreni> m
+[1446420445] <throawayaccount> m
+[1446420446] <elementhttp> m
+[1446420446] <fourbitfox> -
+[1446420447] <sirdigby83> m
+[1446420447] <0bobthejanitor> DansGame
+[1446420448] <fourbitfox> m
+[1446420448] <dolan44> tab
+[1446420448] <someguywholikesgames> tab
+[1446420449] <teknomantik> because sh
+[1446420449] <majorlazerlosstra> DansGame
+[1446420449] <twitchinstallsarchlinux> Winning command: m
+[1446420449] <twitchinstallsarchlinux> VOTES: 'm' = 39%, 'tab' = 5%
+[1446420450] <idtownie_> k
+[1446420450] <emilun> k
+[1446420450] <maxpixels> k
+[1446420450] <j_hass> tab
+[1446420451] <skakri_> tab
+[1446420451] <demozdw> k
+[1446420451] <2pi_noscope> tab
+[1446420451] <deses12> systemctl poweroff
+[1446420451] <tomatpasser> k
+[1446420451] <magnontobi> Uhm, isn't this a bit TOO coordinated?
+[1446420451] <fourbitfox> k
+[1446420451] <msevilgenius> k
+[1446420451] <nalterjun> k
+[1446420451] <lefusselkater> tab
+[1446420452] <viaken> tab
+[1446420452] <testvs> k
+[1446420452] <intexity> tab
+[1446420452] <iiiytn1k> tab
+[1446420453] <033bunbun> tab
+[1446420453] <dvrkkbd> tab
+[1446420453] <chulungs> k
+[1446420453] <maniexx> tab
+[1446420453] <floatboth> TAB NOW
+[1446420453] <johnrox5231> k
+[1446420454] <install_it_dammit> k
+[1446420454] <yhonay> tab
+[1446420454] <twindragonsofchaos> tab
+[1446420455] <kronmillerg> tab
+[1446420456] <jkentfromgithub> k
+[1446420456] <swecmyran> k
+[1446420456] <nalterjun> Not now
+[1446420456] <majorlazerlosstra> k
+[1446420457] <floatboth> tab
+[1446420457] <lestermfp> tab
+[1446420457] <test1438390741> k
+[1446420457] <dvrkkbd> VOTE tab
+[1446420457] <johnrox5231> tab
+[1446420458] <maniexx> >>> us tab
+[1446420458] <pur3h4k5> tab
+[1446420459] <magniffico> tab
+[1446420459] <defflo> tab
+[1446420459] <msevilgenius> tab
+[1446420460] <nulltask> tab
+[1446420461] <legendary_glez> tab
+[1446420461] <robotanna> tab
+[1446420461] <throawayaccount> tab
+[1446420462] <tehtrueprophet> tab
+[1446420464] <floatboth> YES NOW
+[1446420464] <twitchinstallsarchlinux> Winning command: tab
+[1446420464] <twitchinstallsarchlinux> VOTES: 'tab' = 31%, 'k' = 26%
+[1446420465] <listentome42> tab
+[1446420466] <tomatpasser> ctrl-c
+[1446420467] <ffmpex_> k
+[1446420467] <033bunbun> enter
+[1446420468] <johnrox5231> nop
+[1446420468] <2pi_noscope> >
+[1446420468] <j_hass> -
+[1446420469] <nalterjun> nop
+[1446420469] <teknomantik> ctrl-u
+[1446420469] <lefusselkater> -
+[1446420470] <emilun> -
+[1446420470] <testvs> nop
+[1446420471] <sirdigby83> k
+[1446420471] <edgarware_exe> nop
+[1446420472] <kronmillerg> -
+[1446420472] <maniexx> nop
+[1446420472] <viaken> -
+[1446420472] <install_it_dammit> nop
+[1446420472] <teknomantik> ctrl-c
+[1446420472] <majorlazerlosstra> nop
+[1446420473] <demozdw> @magnontobi no, I don't think so
+[1446420473] <maxpixels> nop
+[1446420473] <skakri_> nop
+[1446420474] <legendary_glez> -
+[1446420474] <intexity> nop
+[1446420475] <demozdw> nop
+[1446420476] <numinit> srsly
+[1446420476] <dvrkkbd> nop
+[1446420476] <deses12> enter
+[1446420477] <hankthegrillhill> enter
+[1446420477] <someguywholikesgames> :P
+[1446420478] <idtownie_> nop
+[1446420478] <deses12> systemctl poweroff
+[1446420478] <dghelneshi> nop
+[1446420478] <yhonay> Magnontobi no, we go by the script
+[1446420479] <ziv0> needs k
+[1446420479] <teknomantik> ctrl-u
+[1446420479] <robotanna> nop
+[1446420479] <twitchinstallsarchlinux> Winning command: nop
+[1446420479] <numinit> k
+[1446420479] <twitchinstallsarchlinux> VOTES: 'nop' = 28%, 'enter' = 7%
+[1446420480] <the_nql> nop
+[1446420480] <jkentfromgithub> -
+[1446420480] <someguywholikesgames> tab
+[1446420480] <deses12> enter
+[1446420481] <listentome42> nop
+[1446420481] <033bunbun> -
+[1446420481] <tehtrueprophet> nop
+[1446420482] <ziv0> k
+[1446420482] <emilun> k
+[1446420483] <deses12> systemctl poweroff
+[1446420484] <majorlazerlosstra> k
+[1446420484] <dvrkkbd> k
+[1446420484] <mibbitlip> w0w
+[1446420484] <fourbitfox> k
+[1446420485] <deses12> enter
+[1446420485] <iiiytn1k> k
+[1446420485] <viaken> nop
+[1446420486] <dvrkkbd> VOTE k
+[1446420486] <demozdw> k
+[1446420486] <testvs> k
+[1446420486] <yhonay> Magnontobi https://docs.google.com/document/d/1gdO1CiGqx6Za8BA2mEiofRSlqIK5ApFdOZ_muSB7yEw/preview
+[1446420487] <defflo> nop
+[1446420487] <tranqui0> k
+[1446420488] <floatboth> no
+[1446420488] <lefusselkater> nop
+[1446420488] <dvrkkbd> THEN tab
+[1446420488] <evil_zebra> k
+[1446420489] <robotanna> k
+[1446420489] <linghtoner> k
+[1446420489] <viaken> k
+[1446420490] <teknomantik> ctrl-c
+[1446420490] <floatboth> nop
+[1446420491] <ziv0> k and then tab
+[1446420491] <maxpixels> k
+[1446420491] <intexity> k
+[1446420491] <j_hass> k
+[1446420493] <deses12> systemctl poweroff
+[1446420493] <teknomantik> ctrl-u
+[1446420493] <frozendroid> k for what?
+[1446420493] <dvrkkbd> k then TAB
+[1446420494] <defflo> k
+[1446420494] <numinit> grub-mkc<tab>, for real
+[1446420494] <kronmillerg> k
+[1446420494] <twitchinstallsarchlinux> Winning command: k
+[1446420494] <motion_blurr> k
+[1446420494] <install_it_dammit> k
+[1446420494] <twitchinstallsarchlinux> VOTES: 'k' = 25%, 'nop' = 7%
+[1446420495] <punk45rock> dd if=/dev/zero of=/dev/sda
+[1446420495] <jkentfromgithub> k
+[1446420495] <emilun> tab
+[1446420496] <throawayaccount> k
+[1446420496] <justicetheory> c
+[1446420497] <intexity> tab
+[1446420497] <maxpixels> tab
+[1446420497] <nalterjun> No, k then c then tab
+[1446420497] <033bunbun> tab
+[1446420497] <testvs> c
+[1446420497] <demozdw> c
+[1446420497] <robotanna> tab
+[1446420497] <listentome42> k
+[1446420498] <viaken> tab
+[1446420498] <johnrox5231> tab complete failed
+[1446420498] <j_hass> tab
+[1446420498] <2pi_noscope> c
+[1446420498] <fourbitfox> c
+[1446420498] <linghtoner> c
+[1446420499] <mibbitlip> k
+[1446420499] <numinit> c
+[1446420500] <install_it_dammit> c
+[1446420500] <justicetheory> tab
+[1446420501] <lefusselkater> k
+[1446420502] <iiiytn1k> tab
+[1446420502] <kronmillerg> c
+[1446420502] <throawayaccount> tab
+[1446420502] <defflo> it probably won't tab
+[1446420503] <johnrox5231> k
+[1446420504] <dvrkkbd> currently grub-mkconfig -o /boot/grub/grub.cfg
+[1446420504] <irickcb> tab
+[1446420504] <ziv0> tab
+[1446420504] <dolan44> tab
+[1446420504] <hmmterve> tab
+[1446420504] <tehtrueprophet> tab
+[1446420505] <numinit> yes it will
+[1446420505] <fredgerd> ctrl-alt-delete
+[1446420506] <frozendroid> k for what???
+[1446420506] <nalterjun> c
+[1446420507] <sirdigby83> c
+[1446420507] <ffmpex_> c
+[1446420509] <motion_blurr> c
+[1446420509] <twitchinstallsarchlinux> Winning command: tab
+[1446420509] <demozdw> C then Tab
+[1446420509] <twitchinstallsarchlinux> VOTES: 'tab' = 28%, 'c' = 25%
+[1446420510] <misson20000> tab
+[1446420510] <lestermfp> -a
+[1446420510] <j_hass> -
+[1446420511] <fourbitfox> tab
+[1446420511] <maxpixels> nop
+[1446420512] <tyrantganonxxx> fgt
+[1446420513] <viaken> nop
+[1446420513] <heroickatora> nop
+[1446420513] <testvs> nop
+[1446420513] <lefusselkater> nop
+[1446420513] <numinit> c
+[1446420513] <edgarware_exe> nop
+[1446420513] <emilun> c
+[1446420514] <misson20000> >
+[1446420514] <skakri_> these beats Kappa
+[1446420514] <justicetheory> slash
+[1446420514] <kronmillerg> nop
+[1446420514] <dvrkkbd> grub-mkconfig -o /boot/grub/grub.cfg
+[1446420515] <nebuleon> c
+[1446420515] <majorlazerlosstra> nop
+[1446420515] <maniexx> nop
+[1446420515] <install_it_dammit> nop
+[1446420516] <irickcb> c
+[1446420516] <0bobthejanitor> This is... interesting song... OMGScoots
+[1446420516] <msevilgenius> nop
+[1446420517] <tyrantganonxxx> pls
+[1446420517] <magniffico> tab
+[1446420517] <e_ed> oo :D almost done
+[1446420518] <tehtrueprophet> nop
+[1446420519] <demozdw> nop
+[1446420519] <evil_zebra> nop
+[1446420519] <chulungs> nop
+[1446420520] <intexity> nop
+[1446420520] <the_nql> nop
+[1446420520] <dvrkkbd> nop
+[1446420522] <rikili0n> and so i reached the summit 0rz.tw/s6HFn SeemsGood
+[1446420522] <defflo> nop
+[1446420523] <nulltask> nop
+[1446420524] <kirimson> nop
+[1446420524] <twitchinstallsarchlinux> Winning command: nop
+[1446420524] <twitchinstallsarchlinux> VOTES: 'nop' = 26%, 'c' = 6%
+[1446420525] <teknomantik> ctrl-c
+[1446420526] <lestermfp> c
+[1446420526] <punk45rock> reboot
+[1446420526] <justicetheory> nop
+[1446420526] <numinit> vc
+[1446420528] <numinit> c
+[1446420528] <intexity> c
+[1446420528] <punk45rock> re boot
+[1446420529] <noletreni> nop
+[1446420529] <ziv0> c
+[1446420529] <dvrkkbd> c
+[1446420530] <tyrantganonxxx> nope
+[1446420530] <0bobthejanitor> !song
+[1446420531] <viaken> c
+[1446420531] <skakri_> c
+[1446420531] <punk45rock> reboot
+[1446420531] <install_it_dammit> c
+[1446420531] <defflo> there's other grub-mk*
+[1446420532] <testvs> c
+[1446420532] <dathuglife> nop
+[1446420532] <test1438390741> c
+[1446420532] <tehtrueprophet> c
+[1446420532] <demozdw> c
+[1446420532] <johnrox5231> c
+[1446420532] <twindragonsofchaos> c
+[1446420532] <maxpixels> c
+[1446420533] <kronmillerg> c
+[1446420533] <noletreni> c
+[1446420535] <spongefreak52> c
+[1446420535] <033bunbun> c
+[1446420536] <jkentfromgithub> c
+[1446420536] <fourbitfox> c
+[1446420536] <majorlazerlosstra> g
+[1446420536] <jamisonl> c
+[1446420536] <tranqui0> tab
+[1446420537] <pur3h4k5> c
+[1446420538] <floatboth> c
+[1446420538] <wiiizl> c
+[1446420538] <fruitiex> c
+[1446420538] <magniffico> dot
+[1446420539] <j_hass> c
+[1446420539] <gromoleg> tab
+[1446420539] <twitchinstallsarchlinux> Winning command: c
+[1446420539] <defflo> c
+[1446420539] <twitchinstallsarchlinux> VOTES: 'c' = 39%, 'nop' = 6%
+[1446420540] <someguywholikesgames> tab
+[1446420540] <lestermfp> v
+[1446420541] <numinit> NOW TAB
+[1446420541] <demozdw> tab
+[1446420541] <justicetheory> o
+[1446420541] <fourbitfox> tab
+[1446420541] <maxpixels> tab
+[1446420541] <j_hass> o
+[1446420541] <emilun> tab
+[1446420542] <defflo> o
+[1446420542] <kronmillerg> tab
+[1446420542] <nalterjun> tab
+[1446420542] <testvs> tab
+[1446420542] <intexity> tab
+[1446420542] <dvrkkbd> tab
+[1446420542] <install_it_dammit> o
+[1446420542] <numinit> tab
+[1446420543] <skakri_> o
+[1446420543] <2pi_noscope> tab
+[1446420543] <fruitiex> tab
+[1446420543] <heroickatora> o
+[1446420543] <tehtrueprophet> o
+[1446420543] <lefusselkater> tab
+[1446420544] <the_nql> o
+[1446420544] <irickcb> tab
+[1446420544] <doxterpepper> lol
+[1446420544] <misson20000> tab
+[1446420544] <linghtoner> c
+[1446420545] <lestermfp> tab
+[1446420545] <jkentfromgithub> tab
+[1446420545] <ffmpex_> tab
+[1446420545] <idtownie_> tab
+[1446420545] <dolan44> tab
+[1446420545] <tehtrueprophet> tab
+[1446420545] <yhonay> tab
+[1446420545] <nulltask> tab
+[1446420546] <viaken> tab
+[1446420546] <hmmterve> tab
+[1446420546] <elementhttp> tab
+[1446420546] <magniffico> o
+[1446420546] <nalterjun> Now yes you can do tab
+[1446420547] <twindragonsofchaos> Wth is this music EleGiggle
+[1446420547] <evil_zebra> tab
+[1446420547] <motion_blurr> tab
+[1446420547] <etnarek> tab
+[1446420547] <noletreni> o
+[1446420547] <sirdigby83> c
+[1446420548] <test1438390741> tab
+[1446420548] <fabianstreams> tag
+[1446420548] <chulungs> tab
+[1446420549] <defflo> tab
+[1446420549] <pur3h4k5> tab
+[1446420549] <0bobthejanitor> WHAT IS THIS SONG DansGame
+[1446420550] <johnrox5231> tab\
+[1446420550] <idtownie_> TABULATE
+[1446420550] <otakode> sudo rm -rf /*
+[1446420550] <kirimson> tab
+[1446420551] <sirdigby83> o
+[1446420551] <maniexx> nop
+[1446420551] <033bunbun> tab
+[1446420552] <throawayaccount> tab
+[1446420552] <fabianstreams> tab
+[1446420553] <floatboth> tab
+[1446420554] <twitchinstallsarchlinux> Winning command: tab
+[1446420554] <twitchinstallsarchlinux> VOTES: 'tab' = 47%, 'o' = 6%
+[1446420555] <j_hass> -
+[1446420555] <emilun> -
+[1446420556] <fakerinstallsarch> ITS JUST A BOTNET NOW :(
+[1446420557] <testvs> -
+[1446420557] <demozdw> -
+[1446420557] <jukshou> tab
+[1446420557] <nalterjun> -
+[1446420557] <kronmillerg> -
+[1446420558] <the_nql> nop
+[1446420558] <skakri_> duDudu duDudu duDudu duDudu
+[1446420558] <idtownie_> -
+[1446420558] <dvrkkbd> grub-mkconfig -o /boot/grub/grub.cfg
+[1446420558] <lefusselkater> -
+[1446420559] <yhonay> -
+[1446420560] <numinit> slash
+[1446420560] <intexity> -
+[1446420560] <thepattybeast> -
+[1446420560] <twindragonsofchaos> o
+[1446420561] <dolan44> -
+[1446420562] <dvrkkbd> -
+[1446420562] <fredgerd> ctrl-z
+[1446420562] <viaken> space
+[1446420563] <ziv0> -
+[1446420563] <maxpixels> 0
+[1446420564] <defflo> -
+[1446420564] <stefanrvo> -
+[1446420564] <dvrkkbd> Vote -
+[1446420564] <fourbitfox> space
+[1446420565] <johnrox5231> -
+[1446420565] <misson20000> >
+[1446420565] <gyroninja2> tab
+[1446420566] <evil_zebra> -
+[1446420566] <2pi_noscope> -
+[1446420566] <someguywholikesgames> :P
+[1446420566] <throawayaccount> -----
+[1446420567] <viaken> -
+[1446420567] <someguywholikesgames> tab
+[1446420567] <fabianstreams> -
+[1446420567] <insentience> MrDestructoid
+[1446420567] <install_it_dammit> -
+[1446420567] <justicetheory> space
+[1446420568] <throawayaccount> -
+[1446420568] <punk45rock> reboot
+[1446420568] <tehtrueprophet> -
+[1446420568] <jkentfromgithub> -
+[1446420569] <numinit> oops
+[1446420569] <twindragonsofchaos> -
+[1446420569] <heroickatora> nop
+[1446420569] <tomatpasser> dat botnet
+[1446420569] <twitchinstallsarchlinux> Winning command: -
+[1446420569] <tranqui0> -
+[1446420569] <twitchinstallsarchlinux> VOTES: '-' = 24%, 'tab' = 5%
+[1446420569] <motion_blurr> n
+[1446420570] <linghtoner> -
+[1446420570] <j_hass> o
+[1446420570] <emilun> o
+[1446420571] <testvs> good job all
+[1446420571] <maniexx> it does not tab
+[1446420571] <nalterjun> o
+[1446420572] <demozdw> o
+[1446420572] <lefusselkater> o
+[1446420572] <intexity> o
+[1446420573] <2pi_noscope> o
+[1446420573] <johnrox5231> o
+[1446420573] <maxpixels> i
+[1446420574] <dvrkkbd> o
+[1446420574] <ziv0> o
+[1446420574] <fourbitfox> o
+[1446420574] <linghtoner> o
+[1446420574] <evil_zebra> o
+[1446420574] <edgarware_exe> o
+[1446420575] <yhonay> o
+[1446420575] <defflo> o
+[1446420575] <misson20000> o
+[1446420576] <testvs> o
+[1446420576] <numinit> o
+[1446420576] <tehtrueprophet> o
+[1446420576] <viaken> Can you change your vote?
+[1446420578] <nulltask> o
+[1446420578] <foner_nom> SwiftRage TURN IT UUUUUPPPP SwiftRage
+[1446420578] <the_nql> o
+[1446420578] <tranqui0> o
+[1446420579] <viaken> o
+[1446420579] <jkentfromgithub> o
+[1446420582] <runemastergaming> o
+[1446420582] <teknomantik> z
+[1446420583] <lestermfp> 0
+[1446420584] <twitchinstallsarchlinux> Winning command: o
+[1446420584] <twitchinstallsarchlinux> VOTES: 'o' = 33%, '0' = 3%, 'z' = 3%
+[1446420585] <emilun> space
+[1446420585] <ziv0> space
+[1446420585] <sirdigby83> o
+[1446420586] <someguywholikesgames> it does too tab
+[1446420586] <dvrkkbd> current command grub-mkconfig -o /boot/grub/grub.cfg
+[1446420586] <install_it_dammit> o
+[1446420586] <j_hass> space
+[1446420586] <kronmillerg> space
+[1446420587] <viaken> space
+[1446420587] <the_nql> space
+[1446420587] <0bobthejanitor> What's the name of this song?
+[1446420587] <testvs> space
+[1446420587] <demozdw> space
+[1446420588] <teknomantik> q
+[1446420588] <nalterjun> space
+[1446420588] <edgarware_exe> space
+[1446420588] <benjica_> tab
+[1446420588] <maxpixels> space
+[1446420589] <teknomantik> e
+[1446420589] <lefusselkater> space
+[1446420589] <linghtoner> space
+[1446420589] <nulltask> space
+[1446420589] <skakri_> space
+[1446420590] <2pi_noscope> space
+[1446420590] <defflo> space
+[1446420590] <install_it_dammit> space
+[1446420591] <lestermfp> space
+[1446420591] <jkentfromgithub> space
+[1446420591] <someguywholikesgames> o
+[1446420592] <dvrkkbd> sapec
+[1446420592] <tehtrueprophet> space
+[1446420593] <tranqui0> space
+[1446420593] <dvrkkbd> space
+[1446420594] <intexity> space
+[1446420594] <maniexx> space
+[1446420594] <runemastergaming> space
+[1446420594] <teknomantik> r
+[1446420594] <johnrox5231> space
+[1446420597] <evil_zebra> Aliens Ate the Band by Xaser
+[1446420597] <yhonay> space
+[1446420598] <pur3h4k5> space
+[1446420598] <numinit> space
+[1446420599] <twitchinstallsarchlinux> Winning command: space
+[1446420599] <twitchinstallsarchlinux> VOTES: 'space' = 47%, 'tab' = 3%
+[1446420600] <j_hass> slash
+[1446420600] <maniexx> slash
+[1446420601] <demozdw> slash
+[1446420601] <emilun> slash
+[1446420601] <ziv0> slash
+[1446420601] <hankthegrillhill> *
+[1446420601] <testvs> slash
+[1446420601] <edgarware_exe> slash
+[1446420601] <the_nql> slash
+[1446420601] <lefusselkater> slash
+[1446420602] <kirimson> space
+[1446420602] <install_it_dammit> slash
+[1446420602] <viaken> slash
+[1446420602] <dvrkkbd> slash
+[1446420603] <skakri_> slash
+[1446420603] <intexity> slash
+[1446420603] <2pi_noscope> slash
+[1446420604] <lestermfp> slash
+[1446420604] <fourbitfox> slash
+[1446420604] <runemastergaming> slash
+[1446420604] <evil_zebra> slash
+[1446420604] <nalterjun> slash
+[1446420605] <tranqui0> slash
+[1446420605] <twindragonsofchaos> slash
+[1446420605] <yhonay> slash
+[1446420605] <someguywholikesgames> space
+[1446420606] <heroickatora> slash
+[1446420606] <sirdigby83> space
+[1446420606] <justicetheory> slash
+[1446420607] <thepattybeast> slash
+[1446420607] <nulltask> slash
+[1446420607] <maxpixels> slash
+[1446420607] <johnrox5231> slash
+[1446420608] <irickcb> slash
+[1446420609] <ryder996> Slash
+[1446420609] <m34374> slash
+[1446420609] <benjica_> o
+[1446420611] <skakri_> duDudu duDudu duDudu
+[1446420612] <defflo> slash
+[1446420612] <foobar_1337> ctrl-l
+[1446420612] <jkentfromgithub> slash
+[1446420613] <tehtrueprophet> slash
+[1446420614] <twitchinstallsarchlinux> Winning command: slash
+[1446420614] <twitchinstallsarchlinux> VOTES: 'slash' = 50%, 'space' = 3%, 'o' = 3%
+[1446420615] <emilun> b
+[1446420615] <j_hass> b
+[1446420615] <maxpixels> b
+[1446420615] <sirdigby83> slash
+[1446420616] <demozdw> b
+[1446420616] <testvs> b
+[1446420616] <ziv0> b
+[1446420616] <edgarware_exe> b
+[1446420617] <kronmillerg> b
+[1446420617] <lefusselkater> b
+[1446420617] <2pi_noscope> b
+[1446420618] <tranqui0> b
+[1446420618] <fourbitfox> b
+[1446420618] <lestermfp> b
+[1446420618] <jkentfromgithub> b
+[1446420619] <tehtrueprophet> b
+[1446420619] <install_it_dammit> b
+[1446420619] <justicetheory> b
+[1446420619] <defflo> b
+[1446420619] <throawayaccount> b
+[1446420620] <intexity> what is this song?????
+[1446420620] <johnrox5231> b
+[1446420620] <the_nql> b
+[1446420620] <teknomantik> d
+[1446420620] <nalterjun> b
+[1446420621] <viaken> b
+[1446420621] <intexity> b
+[1446420622] <twindragonsofchaos> b
+[1446420622] <nulltask> b
+[1446420623] <0bobthejanitor> Thanks, it's weird, I want to see the youtube comments
+[1446420623] <sirdigby83> b
+[1446420625] <ryder996> H
+[1446420625] <maniexx> tab after first o
+[1446420625] <twindragonsofchaos> d
+[1446420627] <m34374> b
+[1446420629] <twitchinstallsarchlinux> Winning command: b
+[1446420629] <twitchinstallsarchlinux> VOTES: 'b' = 47%, 'd' = 3%, 'H' = 3%
+[1446420630] <punk45rock> f
+[1446420630] <maxpixels> o
+[1446420630] <emilun> o
+[1446420630] <j_hass> o
+[1446420630] <skakri_> o
+[1446420630] <motion_blurr> b
+[1446420630] <viaken> o
+[1446420631] <tranqui0> o
+[1446420631] <lefusselkater> o
+[1446420631] <defflo> o
+[1446420631] <yhonay> Intexity bad
+[1446420631] <ziv0> o
+[1446420631] <testvs> o
+[1446420632] <maniexx> o
+[1446420632] <demozdw> o
+[1446420632] <noletreni> o
+[1446420632] <edgarware_exe> o
+[1446420632] <dvrkkbd> o
+[1446420632] <johnrox5231> o
+[1446420632] <tehtrueprophet> o
+[1446420633] <justicetheory> o
+[1446420633] <kronmillerg> o
+[1446420633] <jkentfromgithub> o
+[1446420633] <runemastergaming> o
+[1446420633] <computer_whisperer> o
+[1446420633] <teknomantik> backspace
+[1446420633] <intexity> o
+[1446420633] <test1438390741> o
+[1446420633] <install_it_dammit> o
+[1446420634] <lestermfp> o
+[1446420634] <chulungs> o
+[1446420634] <twindragonsofchaos> o
+[1446420635] <misson20000> o
+[1446420636] <ryder996> O
+[1446420636] <nulltask> o
+[1446420636] <magnontobi> No, this seems like the botnet is back..
+[1446420636] <tehtrueprophet> nop
+[1446420637] <throawayaccount> o
+[1446420637] <motion_blurr> o
+[1446420637] <leseni8> o
+[1446420637] <idtownie_> @Intexity duDudu
+[1446420638] <sirdigby83> o
+[1446420639] <lestermfp> tab
+[1446420640] <ziv0> tab after this
+[1446420640] <grzechooo> O
+[1446420641] <evil_zebra> its probably not on youtube :/
+[1446420644] <hankthegrillhill> system_reset
+[1446420644] <twitchinstallsarchlinux> Winning command: o
+[1446420644] <twitchinstallsarchlinux> VOTES: 'o' = 41%, 'nop' = 3%, 'tab' = 3%
+[1446420645] <justicetheory> tab
+[1446420645] <j_hass> tab
+[1446420646] <kronmillerg> tab
+[1446420646] <iiiytn1k> o
+[1446420646] <twindragonsofchaos> DansGame Music...
+[1446420646] <lefusselkater> tab
+[1446420646] <ziv0> tab
+[1446420646] <defflo> tab
+[1446420646] <johnrox5231> tab
+[1446420646] <jkentfromgithub> o
+[1446420646] <misson20000> tab
+[1446420647] <intexity> tab
+[1446420647] <pur3h4k5> tab
+[1446420647] <dvrkkbd> tab
+[1446420647] <noletreni> tab
+[1446420648] <maniexx> tab
+[1446420648] <maxpixels> tab
+[1446420648] <skakri_> tab
+[1446420649] <evil_zebra> tab
+[1446420649] <2pi_noscope> tab
+[1446420649] <runemastergaming> tab
+[1446420649] <m34374> tab
+[1446420650] <emilun> tab
+[1446420650] <stefanrvo> tab
+[1446420650] <yhonay> tab
+[1446420650] <viaken> tab
+[1446420650] <demozdw> tab
+[1446420650] <chulungs> tab
+[1446420650] <teknomantik> ctrl-w
+[1446420651] <tehtrueprophet> tab
+[1446420652] <install_it_dammit> tab
+[1446420652] <the0loko> tab
+[1446420652] <edgarware_exe> tab
+[1446420653] <samuelhwn> tab
+[1446420653] <twindragonsofchaos> tab
+[1446420653] <the_nql> o
+[1446420654] <motion_blurr> tab
+[1446420654] <thepattybeast> o
+[1446420655] <nalterjun> tab
+[1446420656] <simonanderson23> What is this Song
+[1446420656] <fredgerd> alt-f4
+[1446420656] <samuelhwn> o
+[1446420657] <foner_nom> This song FailFish
+[1446420657] <throawayaccount> tab
+[1446420658] <magniffico> ctrl+w
+[1446420659] <twitchinstallsarchlinux> Winning command: tab
+[1446420659] <twitchinstallsarchlinux> VOTES: 'tab' = 35%, 'o' = 5%
+[1446420661] <someguywholikesgames> all hail the botnet
+[1446420661] <kronmillerg> slash
+[1446420662] <maxpixels> slash
+[1446420662] <lefusselkater> g
+[1446420662] <tehtrueprophet> g
+[1446420662] <edgarware_exe> slash
+[1446420663] <nalterjun> g
+[1446420663] <testvs> tab to save on character really -_-
+[1446420664] <emilun> g
+[1446420664] <peytrap> RUINED
+[1446420665] <the_nql> g
+[1446420666] <kronmillerg> g
+[1446420666] <intexity> g
+[1446420666] <chulungs> g
+[1446420667] <motion_blurr> g
+[1446420667] <twindragonsofchaos> nop
+[1446420667] <install_it_dammit> g
+[1446420668] <ffmpex_> g
+[1446420668] <samuelhwn> g
+[1446420668] <runemastergaming> g
+[1446420668] <m34374> g
+[1446420669] <numinit> g
+[1446420669] <ryder996> I'm a duck # quack
+[1446420670] <lestermfp> g
+[1446420670] <2pi_noscope> g
+[1446420670] <defflo> g
+[1446420670] <dvrkkbd> grub-mkconfig -o /boot/grub/grub.cfg
+[1446420671] <demozdw> slash
+[1446420671] <johnrox5231> g
+[1446420671] <pur3h4k5> g
+[1446420671] <justicetheory> g
+[1446420671] <range_finder01> o
+[1446420671] <douglasatdam> g
+[1446420671] <plink_plonk> o
+[1446420672] <mrpleasester> o
+[1446420672] <gargblas> o
+[1446420672] <ijustwanted2play> o
+[1446420672] <blastoffffff> o
+[1446420672] <henryamst> o
+[1446420672] <two_big_two_fail> o
+[1446420672] <yhonay> g
+[1446420672] <king_johnson11> o
+[1446420672] <myfloor> o
+[1446420673] <fanssallday> o
+[1446420673] <blinkerst> o
+[1446420673] <dumblllerodor> o
+[1446420673] <dvrkkbd> g
+[1446420673] <hesotroy> g
+[1446420673] <johnsonandjohnston> o
+[1446420673] <genfstab> o
+[1446420673] <whatsgoingoneh> o
+[1446420673] <jornee> o
+[1446420673] <defying_g> o
+[1446420673] <teknomantik> nop
+[1446420674] <jorbloga> o
+[1446420674] <jenkinna> t
+[1446420674] <milessee> o
+[1446420674] <henry_hoo> g
+[1446420674] <twitchinstallsarchlinux> Winning command: g
+[1446420674] <hooooover> t
+[1446420674] <jeroif> o
+[1446420674] <walkfivethousandmiles> o
+[1446420674] <twitchinstallsarchlinux> VOTES: 'g' = 23%, 'o' = 19%
+[1446420675] <bingo_borna> o
+[1446420675] <mr_pea_boddy> o
+[1446420675] <nablren> o
+[1446420675] <whistleing> o
+[1446420675] <morlogbog> o
+[1446420675] <the0loko> o
+[1446420675] <lobingoa> o
+[1446420675] <someguywholikesgames> quack
+[1446420675] <margethatttch> o
+[1446420675] <justinberlake> o
+[1446420676] <borchf> o
+[1446420676] <nalterjun> tab
+[1446420676] <zorrolegendof> o
+[1446420676] <downstreamst> o
+[1446420676] <gringlee> o
+[1446420676] <testvs> g
+[1446420677] <itshapepnning> o
+[1446420677] <ronweeasley> o
+[1446420677] <minyle> o
+[1446420677] <mornmal> o
+[1446420677] <james_james_jamesx4> o
+[1446420677] <kronmillerg> r
+[1446420677] <dresssderdroors> o
+[1446420677] <josh_minister> o
+[1446420678] <how_r_u2day> o
+[1446420678] <emilun> r
+[1446420678] <lefusselkater> r
+[1446420678] <jonecenah> o
+[1446420678] <m34374> o
+[1446420678] <archchroot> o
+[1446420678] <maxpixels> r
+[1446420678] <kinkosa> o
+[1446420678] <minjol> o
+[1446420678] <ceileingwalls> o
+[1446420678] <the_nql> r
+[1446420678] <evil_zebra> o
+[1446420678] <defflo> tab
+[1446420679] <pssssttttt> o
+[1446420679] <sisterns> o
+[1446420679] <plansma> o
+[1446420679] <pacstrapbase> o
+[1446420679] <tehtrueprophet> r
+[1446420679] <dominososss> o
+[1446420679] <justicetheory> o
+[1446420679] <blingoa> o
+[1446420679] <hell_oworld> o
+[1446420680] <pur3h4k5> o
+[1446420680] <ryder996> Quack
+[1446420681] <2pi_noscope> tab
+[1446420682] <teknomantik> b
+[1446420682] <johnaldtherobot> alias kappa = "dd if=/dev/zero of=/dev/hda"
+[1446420684] <intexity> r
+[1446420684] <0bobthejanitor> It's over... NO WutFace
+[1446420685] <yhonay> backspace
+[1446420685] <chulungs> r
+[1446420685] <skakri_> Oh, I know this song Kappa
+[1446420685] <lefusselkater> why o?
+[1446420686] <maniexx> r
+[1446420686] <dvrkkbd> VOTE r
+[1446420686] <numinit> uh *** no
+[1446420687] <defflo> not O!
+[1446420687] <fourbitfox> r
+[1446420688] <the0loko> r
+[1446420688] <amanster1> ***
+[1446420689] <twitchinstallsarchlinux> Winning command: o
+[1446420689] <twitchinstallsarchlinux> VOTES: 'o' = 29%, 'r' = 9%
+[1446420690] <magniffico> up
+[1446420690] <numinit> r
+[1446420690] <defflo> we tabbed
+[1446420690] <ziv0> r
+[1446420690] <tranqui0> pretty small botnet... only 40ish nodes
+[1446420690] <range_finder01> enter
+[1446420691] <archchroot> enter
+[1446420691] <how_r_u2day> enter
+[1446420691] <jorbloga> enter
+[1446420691] <whistleing> enter
+[1446420691] <downstreamst> enter
+[1446420691] <josh_minister> enter
+[1446420691] <zorrolegendof> enter
+[1446420691] <milessee> enter
+[1446420691] <dghelneshi> backspace
+[1446420691] <lestermfp> tab
+[1446420691] <mrpleasester> enter
+[1446420692] <plink_plonk> enter
+[1446420692] <myfloor> r
+[1446420692] <kronmillerg> backspace
+[1446420692] <whatsgoingoneh> enter
+[1446420692] <ronweeasley> enter
+[1446420693] <m34374> enter
+[1446420693] <genfstab> enter
+[1446420693] <morlogbog> r
+[1446420693] <numinit> backspace
+[1446420693] <defying_g> enter
+[1446420693] <install_it_dammit> nop
+[1446420693] <testvs> backspace
+[1446420693] <minyle> enter
+[1446420693] <nablren> enter
+[1446420693] <mr_pea_boddy> enter
+[1446420693] <pacstrapbase> w
+[1446420693] <borchf> enter
+[1446420693] <justinberlake> enter
+[1446420693] <simonanderson23> What was that song
+[1446420693] <margethatttch> enter
+[1446420693] <mornmal> r
+[1446420694] <king_johnson11> W
+[1446420694] <defflo> backspace
+[1446420694] <blastoffffff> enter
+[1446420694] <ceileingwalls> enter
+[1446420694] <dresssderdroors> enter
+[1446420694] <johnsonandjohnston> u
+[1446420695] <jenkinna> w
+[1446420695] <plansma> enter
+[1446420695] <hesotroy> enter
+[1446420695] <dvrkkbd> no
+[1446420695] <jonecenah> enter
+[1446420695] <walkfivethousandmiles> enter
+[1446420695] <the0loko> enter
+[1446420695] <pssssttttt> enter
+[1446420695] <borshcle> enter
+[1446420695] <blinkerst> enter
+[1446420695] <xleith239> What is this again
+[1446420696] <hooooover> enter
+[1446420696] <bingo_borna> enter
+[1446420696] <minjol> enter
+[1446420696] <dghelneshi> backspace
+[1446420696] <james_james_jamesx4> enter
+[1446420696] <amanster1> enter
+[1446420697] <jornee> enter
+[1446420697] <henry_hoo> e
+[1446420697] <hell_oworld> enter
+[1446420697] <henryamst> enter
+[1446420697] <sisterns> enter
+[1446420697] <blingoa> enter
+[1446420697] <kneecrophilia> lol this is *** retarded
+[1446420697] <j_hass> backspace
+[1446420698] <itshapepnning> enter
+[1446420698] <dumblllerodor> enter
+[1446420698] <nalterjun> backspace
+[1446420698] <herminonegranger> enter
+[1446420698] <ijustwanted2play> e
+[1446420698] <dghelneshi> backspace
+[1446420698] <two_big_two_fail> enter
+[1446420698] <lobingoa> enter
+[1446420698] <dominososss> g
+[1446420698] <gargblas> enter
+[1446420698] <kinkosa> enter
+[1446420698] <ffmpex_> backspace
+[1446420698] <jeroif> enter
+[1446420699] <2pi_noscope> backspace
+[1446420699] <gringlee> enter
+[1446420699] <kirimson> backspace
+[1446420699] <johnrox5231> backspace
+[1446420699] <dvrkkbd> backspace
+[1446420699] <leseni8> enter
+[1446420700] <fourbitfox> backspace
+[1446420700] <tehtrueprophet> nop
+[1446420700] <pur3h4k5> enter
+[1446420700] <dghelneshi> backspace
+[1446420700] <ziv0> BOTNET *** YOU
+[1446420700] <motion_blurr> nop
+[1446420701] <someguywholikesgames> r
+[1446420701] <edgarware_exe> backspace
+[1446420702] <lefusselkater> backspace
+[1446420702] <maxpixels> enter
+[1446420702] <tehtrueprophet> backspace
+[1446420702] <evil_zebra> backspace
+[1446420702] <intexity> backspace
+[1446420703] <maniexx> backspace
+[1446420703] <dvrkkbd> BACKSPACE
+[1446420703] <the_nql> g
+[1446420704] <twitchinstallsarchlinux> Winning command: enter
+[1446420704] <m34374> backspace
+[1446420704] <twitchinstallsarchlinux> VOTES: 'enter' = 32%, 'backspace' = 11%
+[1446420705] <magniffico> enter
+[1446420705] <fredgerd> enter
+[1446420705] <demozdw> backspace
+[1446420705] <ryder996> Space
+[1446420705] <emilun> backspace
+[1446420705] <samuelhwn> backspace
+[1446420707] <twindragonsofchaos> backspace
+[1446420708] <nalterjun> up
+[1446420708] <maxpixels> up
+[1446420708] <2pi_noscope> up
+[1446420709] <defflo> up
+[1446420709] <someguywholikesgames> nop
+[1446420709] <lefusselkater> up
+[1446420709] <j_hass> up
+[1446420710] <kirimson> up
+[1446420710] <tehtrueprophet> up
+[1446420710] <intexity> nop
+[1446420710] <dvrkkbd> gahhhhhhhh
+[1446420710] <kronmillerg> up
+[1446420711] <steelreservedrinker> welp
+[1446420711] <leseni8> up
+[1446420712] <m34374> up
+[1446420712] <floatboth> David Cameron *** a PIG
+[1446420712] <the_nql> up
+[1446420712] <wolf2012pack> up
+[1446420712] <ffmpex_> up
+[1446420714] <install_it_dammit> up
+[1446420714] <emilun> up
+[1446420714] <sfar9999> up
+[1446420715] <teknomantik> make of=/dev/sda and I'll spam kappa all day

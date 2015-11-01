@@ -1854,3 +1854,5 @@
 [1446376420] <y7r4m> lack of documentation, broken shit, and missing code
 [1446376555] <y7r4m> honestly
 [1446376725] <gopherhat> backspace
+[1446377722] <y7r4m> the project is not dead, the core issue is that the code we inherited in no way talks to qemu, and we are left filling in a LOT of gaps.
+[1446377964] <y7r4m> within 24 hours, twitch in the shell will be a thing once again. definitely.

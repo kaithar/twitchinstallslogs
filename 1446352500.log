@@ -2727,3 +2727,308 @@
 [1446386362] <sackofactualpiss> : P
 [1446386387] <twitchintheshell> Not enough votes
 [1446386389] <morriscasper> What do you mean with we need commands?
+[1446386401] <xbytez> commands as in stuff we are going to type
+[1446386402] <twitchintheshell> Not enough votes
+[1446386403] <xbytez> eg
+[1446386406] <morriscasper> Ah
+[1446386407] <xbytez> fdisk, lsblk
+[1446386418] <twitchintheshell> Not enough votes
+[1446386425] <morriscasper> ?create_temp_command: commands: fdisk, lsblk
+[1446386427] <morriscasper> Done
+[1446386431] <morriscasper> ?commands
+[1446386433] <twitchintheshell> Not enough votes
+[1446386445] <xbytez> I guess we should have a quick google doc with commands
+[1446386446] <xbytez> One second
+[1446386448] <twitchintheshell> Not enough votes
+[1446386462] <i3wm_rules_ok> lsblk, fdisk, mkfs, mount, pacstrap, genfstab, pacstrap...
+[1446386464] <twitchintheshell> Not enough votes
+[1446386470] <i3wm_rules_ok> arch-chroot...
+[1446386480] <twitchintheshell> Not enough votes
+[1446386480] <morriscasper> ?hel[
+[1446386481] <xbytez> https://docs.google.com/document/d/1gdO1CiGqx6Za8BA2mEiofRSlqIK5ApFdOZ_muSB7yEw/edit?usp=sharing
+[1446386482] <morriscasper> ?help
+[1446386484] <i3wm_rules_ok> grub-install, grub-mkconfig
+[1446386486] <i3wm_rules_ok> and you're done
+[1446386486] <xbytez> Let's edit there
+[1446386490] <morriscasper> https://www.twitchinstalls.com/#Commands.
+[1446386494] <twitchintheshell> Not enough votes
+[1446386501] <sackofactualpiss> ?vim_or_emacs
+[1446386507] <sackofactualpiss> ?vim_or_nano
+[1446386507] <i3wm_rules_ok> enter
+[1446386508] <twitchintheshell> Winning command: enter
+[1446386510] <dogelition_man> dudududu
+[1446386517] <obammy> ping does not work inside qemu
+[1446386523] <twitchintheshell> Not enough votes
+[1446386532] <slycedix> This *** music
+[1446386533] <sackofactualpiss> ctrl-c
+[1446386538] <twitchintheshell> Winning command: ctrl-c
+[1446386543] <papi_wa_harpy> ctrl-c
+[1446386548] <sigonitori> PogChamp
+[1446386550] <sackofactualpiss> wait damn
+[1446386555] <twitchintheshell> Winning command: ctrl-c
+[1446386557] <sackofactualpiss> how do you interrupt the boot process again?
+[1446386557] <dogelition_man> ctrl-c
+[1446386570] <twitchintheshell> Winning command: ctrl-c
+[1446386574] <i3wm_rules_ok> why do you need to
+[1446386577] <papi_wa_harpy> ctrl-c
+[1446386579] <defflo> whoa
+[1446386581] <fruitiex> PogChamp !!
+[1446386582] <defflo> something happening
+[1446386585] <defflo> l
+[1446386586] <twitchintheshell> Winning command: l
+[1446386592] <slipstream__> f
+[1446386597] <sigonitori> a
+[1446386598] <defflo> f
+[1446386598] <kronicd> a
+[1446386602] <twitchintheshell> Winning command: a
+[1446386604] <cyraxx1234> system_reset Kappa
+[1446386605] <sigonitori> backspace
+[1446386606] <defflo> laagg
+[1446386607] <sigonitori> Kappa
+[1446386608] <xbytez> s
+[1446386612] <ninjatomate> backspace
+[1446386615] <defflo> s
+[1446386615] <twitchintheshell> Winning command: s
+[1446386616] <xbytez> backspace
+[1446386618] <sigonitori> backspace
+[1446386619] <kronicd> 7
+[1446386620] <cyraxx1234> enter
+[1446386627] <defflo> way behind ..
+[1446386628] <irisiridal> enter
+[1446386630] <twitchintheshell> Winning command: enter
+[1446386632] <defflo> ctrl-c
+[1446386633] <sigonitori> l
+[1446386635] <ninjatomate> l
+[1446386637] <kronicd> ctrl+c
+[1446386640] <cyraxx1234> l
+[1446386645] <twitchintheshell> Winning command: l
+[1446386646] <defflo> heh
+[1446386646] <sigonitori> s
+[1446386648] <ninjatomate> s
+[1446386648] <5225225> s
+[1446386648] <cyraxx1234> s
+[1446386649] <fruitiex> s
+[1446386650] <defflo> f
+[1446386651] <papi_wa_harpy> s
+[1446386655] <irisiridal> tab
+[1446386656] <kronicd> 1\
+[1446386658] <sackofactualpiss> s
+[1446386660] <twitchintheshell> Winning command: s
+[1446386661] <sigonitori> enter
+[1446386661] <kronicd> reduce the time, its moving too slow
+[1446386662] <ninjatomate> enter
+[1446386663] <papi_wa_harpy> b
+[1446386664] <cyraxx1234> enter
+[1446386664] <kronicd> 5 second rounds imo
+[1446386666] <5225225> b
+[1446386674] <kronicd> "
+[1446386675] <twitchintheshell> Winning command: "
+[1446386678] <defflo> no 5 sec, it doesn't work with this much delay
+[1446386680] <kronicd> enter
+[1446386680] <papi_wa_harpy> backspace
+[1446386684] <sigonitori> backspace
+[1446386686] <sackofactualpiss> backspace
+[1446386686] <ninjatomate> how did " just win
+[1446386688] <5225225> what
+[1446386691] <twitchintheshell> Winning command: backspace
+[1446386691] <cyraxx1234> yeah what
+[1446386692] <sigonitori> enter
+[1446386692] <kronicd> nfi but im thrilled
+[1446386692] <defflo> when I see the character appearing, the vote for the next one has already gone
+[1446386694] <kronicd> "
+[1446386694] <slipstream__> enter
+[1446386696] <cyraxx1234> enter
+[1446386699] <dogelition_man> "
+[1446386700] <obammy> b
+[1446386701] <irisiridal> alt-f2
+[1446386705] <twitchintheshell> Winning command: alt-f2
+[1446386706] <xbytez> Let's follow this doc: https://docs.google.com/document/d/1gdO1CiGqx6Za8BA2mEiofRSlqIK5ApFdOZ_muSB7yEw/edit
+[1446386706] <twitchintheshell> anarchy mode is borked guys
+[1446386708] <kronicd> hahaha
+[1446386708] <sigonitori> ????
+[1446386712] <i3wm_rules_ok> with this much delay you are forced to ignore the stream and use the chat anyway
+[1446386712] <twitchintheshell> we need to wait until the devs come in to fix it
+[1446386713] <defflo> :DD
+[1446386713] <itamarcps> ping -c 2 archlinux.org
+[1446386715] <morriscasper> What's anarchy mode?
+[1446386718] <twitchintheshell> Not enough votes
+[1446386722] <cyraxx1234> "
+[1446386729] <sigonitori> welp Kappa
+[1446386731] <xbytez> @Twitchintheshell I guess we can work on democracy now, not that many people here
+[1446386733] <twitchintheshell> Winning command: "
+[1446386733] <xbytez> also is it public on GH
+[1446386737] <itamarcps> fdisk -1
+[1446386739] <xbytez> since it's node I might be able to submit a PR
+[1446386741] <5225225> #
+[1446386749] <twitchintheshell> Winning command: #
+[1446386753] <twitchintheshell> if you are going to be making pull requests against the code
+[1446386760] <jyks_> !
+[1446386764] <twitchintheshell> Winning command: !
+[1446386769] <twitchintheshell> please do it against https://github.com/yamamushi/twitch-master
+[1446386771] <kronicd> i think its busted
+[1446386773] <5225225> £
+[1446386774] <xbytez> Alright
+[1446386776] <xbytez> Let me see
+[1446386778] <twitchintheshell> Not enough votes
+[1446386786] <irisiridal> tab
+[1446386790] <kronicd> ☃
+[1446386791] <jyks_> don't you guys dare break the shebang
+[1446386792] <twitchintheshell> Winning command: tab
+[1446386797] <itamarcps> i just want to put correct commands :(
+[1446386801] <itamarcps> fdisk -1
+[1446386808] <twitchintheshell> Not enough votes
+[1446386808] <irisiridal> f
+[1446386817] <sigonitori> PogChamp
+[1446386819] <ninjatomate> ctrl-c
+[1446386822] <twitchintheshell> Winning command: ctrl-c
+[1446386823] <i3wm_rules_ok> fdisk /dev/sda
+[1446386824] <twitchintheshell> now I wait to see if a screensaver messes this all up
+[1446386826] <xbytez> yess music
+[1446386829] <itamarcps> fdisk -L
+[1446386831] <kronicd> ☃
+[1446386832] <sigonitori> ctrl-c
+[1446386833] <miguetech1> lol
+[1446386835] <jyks_> enter
+[1446386835] <dogelition_man> ctrl-c
+[1446386836] <kronicd> guys unicode snowman ok
+[1446386839] <itamarcps> people do fdisk -l
+[1446386839] <twitchintheshell> Winning command: ctrl-c
+[1446386840] <kronicd> god dman
+[1446386842] <miguetech1> that would be jilarious
+[1446386843] <geoffwyche> ctrl-u
+[1446386843] <ninjatomate> enter
+[1446386843] <papi_wa_harpy> ctrl-c
+[1446386844] <cyraxx1234> enter
+[1446386844] <miguetech1> hil
+[1446386844] <sigonitori> enter
+[1446386845] <kronicd> how is that not the obvious option?
+[1446386847] <jyks_> ctrl-c
+[1446386848] <itamarcps> fdisk -l
+[1446386848] <xbytez> system_reset
+[1446386849] <sackofactualpiss> enter
+[1446386852] <irisiridal> f
+[1446386854] <xbytez> uhh
+[1446386855] <twitchintheshell> Winning command: f
+[1446386856] <irisiridal> d
+[1446386858] <sigonitori> enter
+[1446386862] <ninjatomate> how did f just win
+[1446386862] <kronicd> ☃
+[1446386864] <sigonitori> f won? Kappa
+[1446386864] <noletreni> enter
+[1446386864] <jyks_> enter
+[1446386865] <ninjatomate> what
+[1446386865] <dogelition_man> we are doing worse than 12k people
+[1446386865] <xbytez> system_reset
+[1446386865] <itamarcps> fdisk -L
+[1446386868] <twitchintheshell> Winning command: system_reset
+[1446386868] <twitchintheshell> Vote 'yes' to run this command: system_reset
+[1446386869] <sackofactualpiss> system_reset
+[1446386871] <sackofactualpiss> yes
+[1446386872] <ninjatomate> yes
+[1446386872] <cyraxx1234> yes
+[1446386872] <xbytez> yes
+[1446386872] <irisiridal> no
+[1446386873] <geoffwyche> yes
+[1446386874] <gopherhat> yes
+[1446386874] <papi_wa_harpy> yes
+[1446386874] <itamarcps> yes
+[1446386875] <dogelition_man> yes
+[1446386875] <sigonitori> FeelsBadMan
+[1446386876] <noletreni> yes
+[1446386878] <i3wm_rules_ok> it's anarchy, the last command wins
+[1446386878] <jyks_> yes
+[1446386881] <gopherhat> this system is a cooked unit
+[1446386882] <kronicd> 6
+[1446386882] <twitchintheshell> Winning command: yes
+[1446386882] <twitchintheshell> VOTES: 'yes' = 100%
+[1446386882] <twitchintheshell> Vote succeeded: system_reset
+[1446386883] <ninjatomate> ooo
+[1446386887] <xbytez> ayyy
+[1446386893] <kronicd> lol
+[1446386896] <ninjatomate> we did it reddit
+[1446386897] <twitchintheshell> Winning command: 6
+[1446386897] <noletreni> enter
+[1446386898] <scorpirus> enter
+[1446386899] <ninjatomate> enter
+[1446386899] <kronicd> hahahha
+[1446386899] <geoffwyche> enter
+[1446386899] <xbytez> lol the QEMU window moved
+[1446386900] <sigonitori> enter
+[1446386900] <itamarcps> people, please do fdisk -l
+[1446386901] <papi_wa_harpy> enter
+[1446386903] <matthijs186> 12k people? you mean 7k and 5k on a botnet
+[1446386904] <irisiridal> we're testing, right, so shouldn't we do ridiculous stuff?
+[1446386904] <dogelition_man> enter
+[1446386906] <kronicd> ☃
+[1446386907] <i3wm_rules_ok> enter
+[1446386908] <sackofactualpiss> enter
+[1446386909] <sigonitori> 6 ???
+[1446386910] <jyks_> enter
+[1446386911] <itamarcps> enter
+[1446386912] <irisiridal> tab
+[1446386912] <xbytez> @Itamarcps lsblk is prefered
+[1446386913] <twitchintheshell> Winning command: tab
+[1446386914] <ninjatomate> enter
+[1446386914] <geoffwyche> maybe try to break it, as it's a test?
+[1446386917] <i3wm_rules_ok> seriously....
+[1446386920] <defflo> enter
+[1446386923] <sigonitori> enter
+[1446386924] <sigonitori> enter
+[1446386925] <sigonitori> enter
+[1446386926] <xbytez> enter
+[1446386926] <ninjatomate> down
+[1446386926] <matthijs186> enter
+[1446386926] <twitchintheshell> Winning command: enter
+[1446386931] <dogelition_man> i think anarchy mode is a bad idea because it just makes trolling way easier
+[1446386938] <sigonitori> nop
+[1446386940] <sigonitori> nop
+[1446386941] <twitchintheshell> Winning command: nop
+[1446386941] <irisiridal> nop
+[1446386941] <sackofactualpiss> enter
+[1446386943] <kronicd> guys please lets test unicode snowman, how about pasting my snowman? ☃
+[1446386945] <jyks_> enter
+[1446386948] <matthijs186> nop
+[1446386948] <sigonitori> nop
+[1446386949] <cyraxx1234> nop
+[1446386949] <jyks_> ctrl-c
+[1446386949] <sigonitori> nop
+[1446386949] <itamarcps> fdisk -l
+[1446386950] <sigonitori> nop
+[1446386950] <papi_wa_harpy> ctrl-c
+[1446386951] <sigonitori> nop
+[1446386952] <ninjatomate> nop
+[1446386952] <xbytez> imagine the control c during pacman with anarchy :(
+[1446386953] <sigonitori> Kappa
+[1446386956] <twitchintheshell> Winning command: nop
+[1446386957] <morriscasper> ☃
+[1446386961] <kronicd> ☃
+[1446386961] <i3wm_rules_ok> Dogelition_man people aren't intelligent enough to get anything done without a botnet anyway. they can't coordinate. so does it really matter?
+[1446386961] <morriscasper> ☃
+[1446386964] <yhonay> ☃
+[1446386966] <dogelition_man> ☃
+[1446386972] <twitchintheshell> Not enough votes
+[1446386975] <dogelition_man> aw
+[1446386976] <jyks_> n
+[1446386976] <sigonitori> nop
+[1446386977] <kronicd> lame
+[1446386977] <sigonitori> nop
+[1446386977] <morriscasper> Aww
+[1446386978] <yhonay> :(
+[1446386979] <sigonitori> nop
+[1446386980] <kronicd> no snowman support :(
+[1446386980] <cyraxx1234> nop
+[1446386980] <gopherhat> 🔥
+[1446386981] <ninjatomate> a
+[1446386984] <sigonitori> nop
+[1446386984] <matthijs186> nop
+[1446386986] <kronicd> 🔥
+[1446386986] <ninjatomate> a
+[1446386987] <sigonitori> nop
+[1446386988] <irisiridal> nop
+[1446386988] <twitchintheshell> Winning command: nop
+[1446386990] <morriscasper> No snowman support? RACISM!
+[1446386991] <noletreni> nop
+[1446386996] <gopherhat> everyone test my new command fire emoji🔥
+[1446386999] <dogelition_man> ctrl-c
+[1446387000] <i3wm_rules_ok> ctrl-c
+[1446387000] <ninjatomate> a
